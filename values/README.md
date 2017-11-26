@@ -1,4 +1,4 @@
-### Collaboration
+# Values
 
 **Kindness** We value caring for others. Demonstrating we care for people provides an effective framework for challenging directly and delivering feedback. We disagree with companies that say [Evaluate People Accurately, Not "Kindly"](https://www.principles.com/#Principle-100). We're all for accurate assessment but we think it must be done in a kind way. Give as much positive feedback as you can and do it in a public way.
 
@@ -6,51 +6,70 @@
 
 **Say thanks** Recognize the people that helped you publicly, for example in our #thanks chat channel.
 
-**Give feedback effectively** Giving feedback is challenging, it's important to deliver it effectively. When providing feedback always make it about the work itself, focus on the business impact and not the person. Make sure to provide at least one clear and recent example. If a person is going through a hard time in their personal life, then take that into account. An example of giving positive feedback is our [#general chat channel](/internal-communication/README.md). For managers, it's important to realize that employees react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one. Keeping that in mind, when an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself. In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the employee’s performance going forward. Give recognition generously, in the open and often to [generate more engagement](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=SA&subtype=WH&htmlfid=LOW14298USEN) from your team.
-1. **Get to know each other** We use a lot of text based communication and if you know the person behind the text it will be easier to prevent conflicts. So encourage people to get to know each other on a personal level through our [team calls](https://about.gitlab.com/handbook/communication/#team-call), [virtual coffee breaks](https://about.gitlab.com/handbook/working-remotely/#coffee-break-calls), and during our [summit](https://about.gitlab.com/culture/summits/).
-1. **Don't pull rank** If you have to remind someone of the position you have in the company you're doing something wrong, people already know we have a hierarchical decision making process. Explain why you're making the decision and respect everyone irrespective of their function.
-1. **Address behavior, but don't label people**  There is a lot of good in [this](http://bobsutton.typepad.com/my_weblog/2006/10/the_no_asshole_.html) article in not wanting jerks in our team. But we believe that **jerk** is a label for behavior, rather than an inherent classification of a person.  We avoid classifications.
-1. **Say sorry** If you made a mistake apologize. Saying sorry is not a sign of weakness but one of strength. The people that do the most will likely make the most mistakes.
-1. **No ego** Don't defend a point to win an argument or double-down on a mistake. You are not your work, you don't have to defend your point, you have to search for the right answer together.
-1. **See others succeed** An applicant that talked to a lot of people inside GitLab mentioned that compared to other companies one thing stood out the most. Everyone at GitLab mentioned wanting to see each other succeed.
-1. **People are not their work** Always make suggestions about examples of work, not the person ("you didn't respond to my feedback about the design" instead of "you never listen"). And when receiving feedback keep in mind that feedback is the best way to improve and others want to see you succeed.
-1. **Do it yourself** Our collaboration value is about helping each-other when we have questions, need critique or need help. No need to brainstorm, wait for consensus, or [do with two what you can do yourself](https://www.inc.com/geoffrey-james/collaboration-is-the-enemy-of-innovation.html).
+**Give feedback effectively** Giving feedback is challenging, it's important to deliver it effectively. When providing feedback always make it about the work itself, focus on the business impact and not the person. Make sure to provide at least one clear and recent example. If a person is going through a hard time in their personal life, then take that into account. An example of giving positive feedback is our [#general chat channel](/internal-communication/README.md). For managers, it's important to realize that employees react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one. Keeping that in mind, when an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself. In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the employee’s performance going forward. Give recognition generously, in the open and often to generate more engagement from your team.
+
+**Get to know each other** We use a lot of text based communication and if you know the person behind the text it will be easier to prevent conflicts. So encourage people to get to know each other on a personal level through our [team calls](https://about.gitlab.com/handbook/communication/#team-call), [virtual coffee breaks](https://about.gitlab.com/handbook/working-remotely/#coffee-break-calls), and during our [summit](https://about.gitlab.com/culture/summits/).
+
+**Don't pull rank** If you have to remind someone of the position you have in the company you're doing something wrong, people already know we have a hierarchical decision making process. Explain why you're making the decision and respect everyone irrespective of their function.
+
+**Address behavior, but don't label people**  There is a lot of good in [this](http://bobsutton.typepad.com/my_weblog/2006/10/the_no_asshole_.html) article in not wanting jerks in our team. But we believe that **jerk** is a label for behavior, rather than an inherent classification of a person.  We avoid classifications.
+
+**Say sorry** If you made a mistake apologize. Saying sorry is not a sign of weakness but one of strength. 
+
+**No ego** Don't defend a point to win an argument or double-down on a mistake. You are not your work, you don't have to defend your point, you have to search for the right answer together.
+
+**Help others succeed** Helping others both professionally or personally is a priority. We work like a family.  
+
+**People are not their work** Always make suggestions about examples of work, not the person ("you didn't respond to my feedback about the design" instead of "you never listen"). And when receiving feedback keep in mind that feedback is the best way to improve and others want to see you succeed.
+
+**Learn yourself** We do not train people. You can learn MOST of the things yourself. Use resources like Google, Youtube, Udemy, Coursera and more to learn anything you like. 
 
 
 ### Results
 
 We do what we promised to each other, customers, users, and investors.
 
-1. **Measure results not hours** We care about what you achieve; the code you shipped, the user you made happy, and the team member you helped. Do not compete by proclaiming how many hours you worked yesterday because we don't want someone who took the afternoon
-off to feel like they did something wrong. Instead, celebrate the achievements of
-yourself and your teammates. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules.
-1. **Write promises down** Agree in writing on measurable goals. Within the company we use [public OKRs](https://about.gitlab.com/okrs/) for that.
-1. **Growth mindset** You don't always get results and this will result in criticism from yourself and/or others. We believe our talents can be developed through hard work, good strategies, and input from others. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means).
-1. **Global optimization** This name comes from the [quick guide to Stripe's culture](https://stripe.com/us/jobs/candidate-info?a=1#culture). Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your team when it negatively impacts the goals of other teams, our users, and/or the company. Those goals are also your problem and your job. Keep your team as lean as possible, and help other teams achieve their goals.
-1. **Ownership** We expect team members to complete tasks that they are assigned. Having a task means you are responsible for anticipating and solving problems. As an owner you are responsible for overcoming challenges, not suppliers, or other team members. Take initiative and pro-actively inform stakeholders when there is something you might not be able to solve.
-1. **Sense of urgency** At an exponentially scaling startup time gained or lost has compounding effects. Try to get the results as fast as possible so the compounding of results can begin and we can focus on the next improvement.
+**Measure results not hours** We care about what you achieve; the code you shipped, the user you made happy, and the team member you helped. Do not compete by proclaiming how many hours you worked yesterday. Instead, celebrate the achievements of
+yourself and your teammates. You don't have to defend how you spend your day. We trust team members to do the right thing.
+
+**Write promises down** Agree in writing on measurable goals. Within the company we use [public OKRs](/OKR/README.md) for that.
+
+**Growth mindset** You don't always get results and this will result in criticism from yourself and/or others. We believe our talents can be developed through hard work, good strategies, and input from others. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means).
+
+**Global optimization** This name comes from the [quick guide to Stripe's culture](https://stripe.com/us/jobs/candidate-info?a=1#culture). Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your team when it negatively impacts the goals of other teams, our users, and/or the company. Those goals are also your problem and your job. Keep your team as lean as possible, and help other teams achieve their goals.
+
+**Ownership** We expect team members to complete tasks that they are assigned. Having a task means you are responsible 
+for anticipating and solving problems. As an owner you are responsible for overcoming challenges, not suppliers, or other team members. Take initiative and pro-actively inform stakeholders when there is something you might not be able to solve.
+
+**Sense of urgency** At an exponentially scaling startup time gained or lost has compounding effects. Try to get the results as fast as possible so the compounding of results can begin and we can focus on the next improvement.
 
 ### Efficiency
 
-We care about working on the right things, not doing more than needed,
-and not duplicating work. This enables us to achieve more progress which makes our work more fulfilling.
+We care about working on the right things, not doing more than needed, and not duplicating work. This enables us to achieve more progress which makes our work more fulfilling.
 
-1. **Boring solutions**<a name="boring-solutions"></a>: Use the most simple and boring solution for a problem. You
-can always make it more complex later if that is needed. The speed of innovation
-for our organization and product is constrained by the total complexity we have added
-so far, so every little reduction in complexity helps.
-Don't pick an interesting technology just to make your work more fun, using code that is popular will ensure many bugs are already solved and its familiarity makes it easier for others to contribute.
-1. **Be respectful of other's time** Consider the time investment you are asking others to make with meetings and a permission process. Try to avoid meetings and if one is needed make attendance optional by making the invite optional, by having a clear agenda linked from the invite, and by documenting the outcome. Instead of having people ask permission trust their judgment and offer a consultation process if they have questions.
-1. **Spend company money like it's your own** Every dollar we spend will have to be earned back, be as frugal with company money as you are with your own.
-1. **Freedom** You should have clear objectives and the freedom to work on them as you see fit.
-1. **Frugality** [Amazon states it best](http://www.amazon.jobs/principles) with: "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.".
-1. **ConvDev** We work according to the principles of [conversational development](http://conversationaldevelopment.com/).
-1. **Short verbal answers** Give short answers to verbal questions so the other party has the opportunity to ask more or move on.
-1. **Keep broadcasts short** And keep 1 to many written communication short, as mentioned in [this HBR study](https://hbr.org/2016/09/bad-writing-is-destroying-your-companys-productivity): "A majority say that what they read is frequently ineffective because it’s too long, poorly organized, unclear, filled with jargon, and imprecise.".
-1. **Managers of one** We want team members to be [a manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one) who doesn't need daily check-ins to achieve their goals.
-1. **Responsibility over rigidity** When possible we give people the responsibility to make a decision and hold them accountable for that instead of imposing rules and approval processes.
-1. **Accept mistakes** Not every problem should lead to a new process to prevent them. Additional process make all actions more inefficient, a mistake only affects one.
-1. **Move fast by shipping the minimum viable change** We value constant improvement by iterating quickly, month after month. If a task is too big to deliver in one month, cut scope.
+**Boring solutions**: Use the most simple and boring solution for a problem. You can always make it more complex later if that is needed. The speed of innovation for our organization and product is constrained by the total complexity we have added so far, so every little reduction in complexity helps. Don't pick an interesting technology just to make your work more fun, using code that is popular will ensure many bugs are already solved and its familiarity makes it easier for others to contribute.
+
+**Be respectful of other's time** Consider the time investment you are asking others to make with meetings and a permission process. Try to avoid meetings and if one is needed make attendance optional by making the invite optional, by having a clear agenda linked from the invite, and by documenting the outcome. Instead of having people ask permission trust their judgment and offer a consultation process if they have questions.
+
+**Spend company money like it's your own** Every dollar we spend will have to be earned back, be as frugal with company money as you are with your own.
+
+**Freedom** You should have clear objectives and the freedom to work on them as you see fit.
+
+**Frugality** [Amazon states it best](http://www.amazon.jobs/principles) with: "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency and invention. There are no extra points for growing headcount, budget size or fixed expense.".
+
+**ConvDev** We work according to the principles of [conversational development](http://conversationaldevelopment.com/).
+
+**Short verbal answers** Give short answers to verbal questions so the other party has the opportunity to ask more or move on.
+
+**Keep broadcasts short** And keep 1 to many written communication short, as mentioned in [this HBR study](https://hbr.org/2016/09/bad-writing-is-destroying-your-companys-productivity): "A majority say that what they read is frequently ineffective because it’s too long, poorly organized, unclear, filled with jargon, and imprecise.".
+
+**Managers of one** We want team members to be [a manager of one](https://signalvnoise.com/posts/1430-hire-managers-of-one) who doesn't need daily check-ins to achieve their goals.
+
+**Responsibility over rigidity** When possible we give people the responsibility to make a decision and hold them accountable for that instead of imposing rules and approval processes.
+
+**Accept mistakes** Not every problem should lead to a new process to prevent them. Additional process make all actions more inefficient, a mistake only affects one.
+
+**Move fast by shipping the minimum viable change** We value constant improvement by iterating quickly, day after day. If a task is too big to deliver in few days or a week, cut scope.
 
 ### Diversity
 
