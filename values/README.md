@@ -1,25 +1,12 @@
----
-layout: markdown_page
-title: "GitLab Values"
----
-
-- TOC
-{:toc}
-
-## CREDIT
-
-Our six values are **Collaboration**, **Results**, **Efficiency**, **Diversity**, **Iteration**, and **Transparency** (CREDIT).  These are interlinked and work together to protect our culture.  Together these values spell the CREDIT we give each other.  Below each of the values is made actionable.
-
 ### Collaboration
 
-Helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve. Similarly you can rely on others for
-help and advice  -  in fact, you're expected to do so. Anyone can chime in on any subject, including people who don't work at GitLab. The person who has to do the work decides how to do it but you should always take the suggestions seriously and try to respond and explain.
+**Kindness** We value caring for others. Demonstrating we care for people provides an effective framework for challenging directly and delivering feedback. We disagree with companies that say [Evaluate People Accurately, Not "Kindly"](https://www.principles.com/#Principle-100). We're all for accurate assessment but we think it must be done in a kind way. Give as much positive feedback as you can and do it in a public way.
 
-1. **Kindness** We value caring for others. Demonstrating we care for people provides an effective framework for challenging directly and delivering feedback. We disagree with companies that say [Evaluate People Accurately, Not "Kindly"](https://www.principles.com/#Principle-100). We're all for accurate assessment but we think it must be done in a kind way. Give as much positive feedback as you can and do it in a public way.
-1. **Negative is 1-1** Give negative
-feedback in the smallest setting possible, one-on-one video calls are preferred.
-1. **Say thanks** Recognize the people that helped you publicly, for example in our #thanks chat channel.
-1. **Give feedback effectively** Giving feedback is challenging, it's important to deliver it effectively. When providing feedback always make it about the work itself, focus on the business impact and not the person. Make sure to provide at least one clear and recent example. If a person is going through a hard time in their personal life, then take that into account. An example of giving positive feedback is our [thanks chat channel](https://about.gitlab.com/handbook/communication/#internal-communication). For managers, it's important to realize that employees react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one. Keeping that in mind, when an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself. In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the employee’s performance going forward. Give recognition generously, in the open and often to [generate more engagement](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=SA&subtype=WH&htmlfid=LOW14298USEN) from your team.
+**Negative is 1-1** Give negative feedback in the smallest setting possible, one-on-one video calls are preferred.
+
+**Say thanks** Recognize the people that helped you publicly, for example in our #thanks chat channel.
+
+**Give feedback effectively** Giving feedback is challenging, it's important to deliver it effectively. When providing feedback always make it about the work itself, focus on the business impact and not the person. Make sure to provide at least one clear and recent example. If a person is going through a hard time in their personal life, then take that into account. An example of giving positive feedback is our [#general chat channel](/internal-communication/README.md). For managers, it's important to realize that employees react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one. Keeping that in mind, when an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself. In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the employee’s performance going forward. Give recognition generously, in the open and often to [generate more engagement](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=SA&subtype=WH&htmlfid=LOW14298USEN) from your team.
 1. **Get to know each other** We use a lot of text based communication and if you know the person behind the text it will be easier to prevent conflicts. So encourage people to get to know each other on a personal level through our [team calls](https://about.gitlab.com/handbook/communication/#team-call), [virtual coffee breaks](https://about.gitlab.com/handbook/working-remotely/#coffee-break-calls), and during our [summit](https://about.gitlab.com/culture/summits/).
 1. **Don't pull rank** If you have to remind someone of the position you have in the company you're doing something wrong, people already know we have a hierarchical decision making process. Explain why you're making the decision and respect everyone irrespective of their function.
 1. **Address behavior, but don't label people**  There is a lot of good in [this](http://bobsutton.typepad.com/my_weblog/2006/10/the_no_asshole_.html) article in not wanting jerks in our team. But we believe that **jerk** is a label for behavior, rather than an inherent classification of a person.  We avoid classifications.
