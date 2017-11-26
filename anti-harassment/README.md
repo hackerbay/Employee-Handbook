@@ -6,12 +6,13 @@ Everyone at HackerBay has a responsibility to prevent and stop harassment. Worki
 
 ## Scope
 
-This policy applies to all team members employed by any entity of HackerBay, whether contractor or employee, in all locations. There are local labor laws in every country and in the case of the United States, state laws, that must be followed when handling, reporting and investigating incidents of harassment. The People Operations team and legal counsel, if required, in each of those countries will be called upon to ensure compliance and the appropriate legal processes and procedures are followed. Specific country requirements for employees (subject to changes in employment law) are listed in the [Country & US State Specific Requirements](#country--us-state-specific-requirements) section and will be updated regularly.
+This policy applies to all team members employed by any entity of HackerBay, whether contractor or employee, in all locations. There are local labor laws in every country and in the case of the United States, state laws, that must be followed when handling, reporting and investigating incidents of harassment. The People Operations team and legal counsel, if required, in each of those countries will be called upon to ensure compliance and the appropriate legal processes and procedures are followed. 
+
 All individual contributors, managers, and leaders will be subject to disciplinary action, up to and including termination, for any act of harassment they commit.
 
 Types of Harassment
 
-The following are considered forms of harassment and will not be tolerated by GitLab:
+The following are considered forms of harassment and will not be tolerated by HackerBay:
 - Sexual Harassment
 - Discrimination
 - Bullying / Workplace Violence
