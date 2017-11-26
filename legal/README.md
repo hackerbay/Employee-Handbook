@@ -10,13 +10,14 @@ Feel free to use the `#legal` chat channel in Slack for general legal questions.
  
 ## Contract Templates
  
-* [Contracts](https://about.gitlab.com/handbook/contracts/)
-* Non-Disclosure Agreement (NDA) (WIP) 
+* [Contracts](/contracts/README.md)
+* [Non-Disclosure Agreement](https://www.docracy.com/9qx4o7x1m0/non-disclosure-agreement-hackerbay-inc?highlightComment=-1&startOnComments=false)
+* [Software Development Contract](https://www.docracy.com/5rj5hdzqan/software-development-contract-hackerbay-software-private-limited?startOnComments=false)
  
 ## Legal Team Processes
  
-* [Signing Legal Documents](https://about.gitlab.com/handbook/signing-legal-documents/)
-* [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/)
+* [Signing Legal Documents](/signing-legal-documents/README.md)
+* [Authorization Matrix](/finance/authorization-matrix/README.md)
  
 ## Company Policies
  
