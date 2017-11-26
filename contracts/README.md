@@ -1,26 +1,13 @@
----
-layout: markdown_page
-title: "Contracts"
----
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Disclaimer
 
-These agreements are examples of the agreements that we currently use at GitLab. However, the terms and conditions of an employee or
-contractor’s agreement will vary based on each employee or contractor’s specific circumstances. GitLab reserves the right to amend or
-change the sample agreements, as well as each employee or contractor’s actual agreement. The samples below are samples only — they are not
-valid as such and do not replace personalized signed agreements.
+These agreements are examples of the agreements that we currently use at HackerBay. However, the terms and conditions of an employee or contractor’s agreement will vary based on each employee or contractor’s specific circumstances. HackerBay reserves the right to amend or change the sample agreements, as well as each employee or contractor’s actual agreement. The samples below are samples only — they are not valid as such and do not replace personalized signed agreements.
 
 ## Available Currencies
 
-The preference is for team members and future team members to be paid in their local currency. However, there may be instances where this is not possible and another currency may be chosen by the team member. This should be discussed and agreed with People Operations ahead of creating the appropriate contract (at offer stage for new team members) so a new one can be issued or confirmed by [Letter of Adjustment](#letter-of-adjustment). The effective exchange rate date used in these cases will be either January 1 or July 1 depending on the hire date of the new team member.  This is to minimize significant fluctuations to salaries due to currencies that either strengthen or weaken throughout the year. Further details on this review period can be found in the [Global Compensation](/handbook/people-operations/global-compensation/) page under [Exchange Rate Fluctuations](/handbook/people-operations/global-compensation/#exchange-rate-fluctuations).
+The preference is for team members and future team members to be paid in their local currency. However, there may be instances where this is not possible and another currency may be chosen by the team member. This should be discussed and agreed with People Operations ahead of creating the appropriate contract (at offer stage for new team members) so a new one can be issued or confirmed by [Letter of Adjustment](#letter-of-adjustment). The effective exchange rate date used in these cases will be either January 1 or July 1 depending on the hire date of the new team member.  This is to minimize significant fluctuations to salaries due to currencies that either strengthen or weaken throughout the year. Further details on this review period can be found in the [Global Compensation](/people-operations/global-compensation/README.md) page under [Exchange Rate Fluctuations](/people-operations/global-compensation/README.md#exchange-rate-fluctuations).
 
-GitLab can pay local currency in the following countries:
+HackerBay can pay local currency in the following countries:
 
 | Country   |     ISO Code     |
 |-----------|------------------|        
@@ -62,11 +49,11 @@ GitLab can pay local currency in the following countries:
 ## How to use this page to prepare a contract
 {:#how-to-use}
 
-Assuming that the [hiring process](/handbook/hiring/) went smoothly, now it is time to prepare the applicable contracts.
+Assuming that the [hiring process](/hiring/README.md) went smoothly, now it is time to prepare the applicable contracts.
 The following set of steps should suffice:
 
 1. The currency should normally be the local currency of the new team member unless they explicitly request USD/EUR because their local currency has a lot of inflation.
-1. Employee entity: employ through the GitLab entity where they are located (US => Inc., NL => B.V., UK => Ltd, India => Lyra, Germany => GmbH, Belgium => B.V. (Belgian contract)) depending on the location in Belgium the contract will need to be in either French or Dutch with the English translation alongside.
+1. Employee entity: employ through the HackerBay US entity. 
 1. Contractor entity: if the team member is in the US, or if the person is part of the Sales organization, GitLab Inc. is the contracting entity. In all other regions and functional groups, GitLab BV is the contracting entity.
 1. Make a copy of the relevant Template Contract (linked below) in Drive, and include the name of the new hire in the title of the copy.
 1. Find all fields with curly brackets (`{ }`), and edit as appropriate. It is often efficient to do a find + replace on fields that appear multiple times such as names, email
