@@ -1,11 +1,6 @@
----
-layout: markdown_page
-title: Team Handbook
-twitter_image: '/images/tweets/handbook-gitlab.png'
----
+The HackerBay team handbook is the central repository for how we run the company. As part of our value of being transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest improvements or add clarifications.
 
-The GitLab team handbook is the central repository for how we run the company. Printed it consists of about 500 pages of text. As part of our value of being transparent the handbook is <a href="https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook">open to the world</a>, and we welcome feedback<a name="feedback"></a>. Please make a <a href="https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests">merge request</a> to suggest improvements or add clarifications.
-Please use <a href="https://gitlab.com/gitlab-com/www-gitlab-com/issues">issues</a> to ask questions.
+Please use issues to ask questions. 
 
 * [General](/handbook)
   * [Values](/handbook/values)
@@ -76,38 +71,5 @@ Please use <a href="https://gitlab.com/gitlab-com/www-gitlab-com/issues">issues<
   * [Markdown Guide](/handbook/product/technical-writing/markdown-guide/)
 * [Legal](/handbook/legal)
 
-<style>
-.md-page h2 i.icon-color {
-  color: rgb(107,79,187)
-}
-.md-page h2:nth-of-type(even) i.icon-color{
-  color:rgb(252,109,38);
-}
-.font-awesome {
-  font-size: .70em;
-  vertical-align: middle;
-  padding-bottom: 5px;
-}
-ul.toc-list-icons {
-  list-style-type: none;
-  padding-left: 25px;
-}
-ul.toc-list-icons li ul {
-  padding-left: 25px;
-}
-ul.toc-list-icons {
-  list-style-type: none;
-  padding-left: 25px;
-}
-ul.toc-list-icons li ul {
-  padding-left: 35px;
-}
-ul.toc-list-icons li i,
-ul.toc-list-icons li ul li i {
-  padding-right: 15px;
-  color: rgb(107,79,187);
-}
-ul.toc-list-icons li:nth-of-type(even) i {
-  color:rgb(252,109,38);
-}
-</style>
+
+This handbook has been forked from [GitLab Team Handbook.](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook) 
