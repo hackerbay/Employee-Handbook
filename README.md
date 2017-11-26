@@ -1,3 +1,6 @@
+### HackerBay Team Handbook
+
+
 The HackerBay team handbook is the central repository for how we run the company. As part of our value of being transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest improvements or add clarifications.
 
 Please use issues to ask questions. 
