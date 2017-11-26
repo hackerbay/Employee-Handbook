@@ -1,0 +1,248 @@
+---
+layout: default
+title: Community Writers Program
+suppress_header: true
+description: "Earn up $200 per technical article published by GitLab"
+twitter_image: '/images/tweets/community-writers.png'
+extra_css:
+  - "solutions.css"
+extra_js:
+  - "solutions.js"
+---
+
+.page-container.community-writers-container.text-center.animated
+  .container
+    .header-graphic
+      = image_tag "/images/community-writers/icon-header-comm-writers.png", class: "img-responsive"
+
+    %h1.page-headline
+      GitLab Community Writers Program
+    %h4.subheader
+      Earn up to US$ 200 per technical article published and promoted by GitLab
+    %a.btn.btn-lg.btn-red{ href: "https://gitlab.com/gitlab-com/community-writers/issues" } Issue Tracker
+    %a.btn.btn-lg.btn-white{ href: "terms-and-conditions/" } Terms &amp; Conditions
+
+.page-container.content-container.text-center.animated
+  .container
+    %h2.page-headline.orange-title
+      What are we looking for?
+    .feature-item.col-md-10.col-md-push-1.icon-purple
+      = icon("cycle-analytics/icon-benefit-2-1", "feature-icon", { label: "Creative Writers" })
+      %h3
+        Creative Writers
+      %p
+        Did you search GitLab resources for a guide or a tutorial and didn't find it? Would you love to see us expanding our range of guides and tutorials and advice about creating, collaborating, and deploying with
+        Git and GitLab? We need your help.
+    .feature-item.col-md-10.col-md-push-1.icon-purple
+      = icon("issue-boards/icon-benefit-2", "feature-icon", { label: "Comprehensive Approach" })
+      %h3
+        Comprehensive Approach
+      %p
+        Are you keen to make your content comprehensive to everyone else? Do you love teaching others? Do you have experience writing technical content? Are you an experienced blogger? We are looking for you.
+    .feature-item.col-md-10.col-md-push-1.icon-purple
+      = icon("issue-boards/icon-benefit-1", "feature-icon", { label: "Rock Solid Content" })
+      %h3
+        Rock Solid Content
+      %p
+        Have you figured out how do to an awesome thing with GitLab and would be delighted to share your knowledge? Are you great at solving challenging problems or explaining complex ideas? Do you
+        have a specific area of expertise and want to spread the world? We want to publish you.
+
+.what-is.purple-section.text-center.animated
+  .container
+    %h2.purple-section-title
+      What are you waiting for? Join us!
+    .purple-section-subtitle
+      It's your time to get thousands of eyes on your content and earn up to US$ 200 per technical article!
+
+.page-container.content-container.white-bg.animated
+  .container
+    %h2.page-headline.text-center
+      How does it work?
+    %h3.getting-started-subheader.text-center
+      :markdown
+        Your content will be published in the [GitLab Documentation](https://docs.gitlab.com){:.purple}, as a [Technical Article](https://docs.gitlab.com/ce/development/writing_documentation.html#technical-articles){:.purple}.
+    %section#steps.steps
+      #step-1.step.js-step
+        .container
+          .step-icon-container
+            = icon("home/icon-step-1", "step-icon", { label: "Choose your subject" })
+            %span.step-number.text-center
+              [ step 01 ]
+          .row
+            .col-md-10.col-md-push-1.step-content-holder.mix-color
+              %h3.step-title.text-center
+                %span
+                  You
+                Choose a Subject
+              .lead.text-center.step-lead-text
+                :markdown
+                  Pick up an [existing issue](https://gitlab.com/gitlab-com/community-writers/issues) or create a new one
+              .row.row-eq-height
+                .col-md-2
+                .col-md-8.col-sm-12.step-content
+                  :markdown
+                    We need you to create content based on your experience, not the opposite. If you have figured out something amazing to do with GitLab, or from GitLab, and if there's no content on that among GitLab's resources, we would love to publish your tutorial or guide.
+
+                    If you're unsure about how to do what you're willing to write about, we ask you to figure it out first.
+      %hr
+      #step-2.step.js-step
+        .container
+          .step-icon-container
+            = icon("issue-boards/icon-step-1", "step-icon", { label: "Pre-Assess" })
+            %span.step-number.text-center
+              [ step 02 ]
+          .row
+            .col-md-10.col-md-push-1.step-content-holder.mix-color
+              %h3.step-title.text-center
+                %span
+                  We
+                Pre-Assess
+              .lead.text-center.step-lead-text
+                :markdown
+                  Pre-assessment of your writing style
+              .row.row-eq-height
+                .col-md-2
+                .col-md-8.col-sm-12.step-content
+                  :markdown
+                    Once you've decided what do you want to write about, add a comment to the issue containing:
+
+                    1. A writing sample (link to content on similar subjects that you published previously)
+                    2. A suggestion for your [article outlines](/handbook/product/technical-writing/#3rd-plan)
+                    3. An introduction for your article
+                    4. A line accepting the [terms and conditions](terms-and-conditions/): 
+
+                        > @marcia I would like to write about this subject and I accept the [terms](https://about.gitlab.com/handbook/product/technical-writing/community-writers/terms-and-conditions/) of the Community Writers Program.
+
+                    Your sample will be pre-evaluated based on your writing style, approach, grammar, structure, context, and flow.
+      %hr
+      #step-3.step.js-step
+        .container
+          .step-icon-container
+            = icon("home/icon-step-3", "step-icon step-icon-3", { label: "Draft" })
+            %span.step-number.text-center
+              [ step 03 ]
+          .row
+            .col-md-10.col-md-push-1.step-content-holder.mix-color
+              %h3.step-title.text-center
+                %span
+                  You
+                Draft
+              .lead.text-center.step-lead-text
+                :markdown
+                  It's time to write your article and send us your first draft
+              .row.row-eq-height
+                .col-md-2
+                .col-md-8.step-content
+                  :markdown
+                    Considering that you passed the pre-assessment stage, you'll see a note in the issue:
+
+                    > @user, you got it! Please write your draft in markdown and send
+                    it in a new confidential issue to this project. We do not open any attachments.
+
+                    Your content must respect our [style guidelines](https://docs.gitlab.com/ce/development/doc_styleguide.html), and our [writing method](/handbook/product/technical-writing/#writing-method). It must be original and unprecedented.
+
+      %hr
+      #step-4.step.js-step
+        .container
+          .step-icon-container
+            = icon("home/icon-step-6", "step-icon", { label: "Evaluate" })
+            %span.step-number.text-center
+              [ step 04 ]
+          .row
+            .col-md-10.col-md-push-1.step-content-holder.mix-color
+              %h3.step-title.text-center
+                %span
+                  We
+                Evaluate
+              .lead.text-center.step-lead-text
+                :markdown
+                  Your first draft will be evaluated
+              .row.row-eq-height
+                .col-md-2
+                .col-md-8.step-content
+                  :markdown
+                    Your content will be evaluated by our technical writers. We will let you know if your content was approved to proceed or not. If approved, you'll receive feedback on your content.
+
+                    The evaluation is based on particular [criteria](terms-and-conditions/#evaluation-criteria), defined by the [terms and conditions](terms-and-conditions/).
+      %hr
+      #step-5.step.js-step
+        .container
+          .step-icon-container
+            = icon("home/icon-step-10", "step-icon", { label: "Review" })
+            %span.step-number.text-center
+              [ step 05 ]
+          .row
+            .col-md-10.col-md-push-1.step-content-holder.mix-color
+              %h3.step-title.text-center
+                %span
+                  We
+                Review
+              .lead.text-center.step-lead-text.step-lead-text-last
+                :markdown
+                  We will review your content in order to improve it
+              .row.row-eq-height
+                .col-md-2
+                .col-md-8.step-content
+                  :markdown
+                    As your content will be published by GitLab, it **represents GitLab**. Therefore, we will ask you to adjust it according to our **quality assurance** standards. We may ask you to do a grammar check, content flow and structure adjustments, and improvements specific to your article.
+
+                    We bet your content will be so awesome that the review will be simple and quick!
+      %hr
+      #step-6.step.js-step
+        .container
+          .step-icon-container
+            = icon("home/icon-step-8", "step-icon step-icon-3", { label: "Merge Request" })
+            %span.step-number.text-center
+              [ step 06 ]
+          .row
+            .col-md-10.col-md-push-1.step-content-holder.mix-color
+              %h3.step-title.text-center
+                %span
+                  You
+                Submit a Merge Request
+              .lead.text-center.step-lead-text
+                :markdown
+                  Submit a Merge Request
+              .row.row-eq-height
+                .col-md-2
+                .col-md-8.step-content
+                  :markdown
+                    Once the review is mostly done, we will ask you to submit a merge request to [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/) or [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/) with your document in place and ready to be merged.
+
+                    The technical writing team might ask you for further adjustments, and, once accomplished, it will be merged.
+
+                    It will be published in the [GitLab Documentation](https://docs.gitlab.com), as a [Technical Article](https://docs.gitlab.com/ce/development/writing_documentation.html#technical-articles).
+
+      %hr
+      #step-7.step.js-step
+        .container
+          .step-icon-container
+            = icon("home/icon-step-9", "step-icon step-icon-3", { label: "Publish" })
+            %span.step-number.text-center
+              [ step 07 ]
+          .row
+            .col-md-10.col-md-push-1.step-content-holder.mix-color
+              %h3.step-title.text-center
+                %span
+                  We
+                Publish,
+                %span
+                  You
+                Get Paid
+              .lead.text-center.step-lead-text
+                :markdown
+                  Get published, get compensated!
+              .row.row-eq-height
+                .col-md-2
+                .col-md-8.step-content
+                  :markdown
+                    Congratulations! Your article will have been published! We will promote it in social media networks and other channels.
+
+                    As soon as your article gets published, we will proceed with the compensation process.
+
+                    If you succeed on the first process, we'll invite you to write for us regularly.
+
+#know-more.page-container.content-container.text-center.video-explainer.comm-writers-gray
+  .container
+    %a.featured-item-button.btn-red.btn-margin-top{ href: "https://gitlab.com/gitlab-com/community-writers/issues" } Take me to the Issue Tracker
+    %a.featured-item-button.btn-white.btn-margin-top{ href: "terms-and-conditions/" } I want to know the details

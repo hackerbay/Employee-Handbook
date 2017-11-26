@@ -1,0 +1,15 @@
+---
+layout: markdown_page
+title: "Engineering Projects"
+---
+
+:markdown
+  ## Projects
+
+=  partial 'table', locals: { projects: team.projects }
+
+%hr
+
+- team.projects.each do |project|
+  = partial 'project', locals: { project: project }
+

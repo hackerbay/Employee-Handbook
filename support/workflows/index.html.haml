@@ -1,0 +1,40 @@
+---
+layout: default
+title: Support Workflows
+---
+- pages = sitemap.resources.select { |resource| resource.path.start_with?("handbook/support/workflows")  }
+- pages = pages.reject {|page| page.data.category.nil?}.group_by { |page| page.data.category }.sort_by { |category| category }
+%ol.breadcrumb
+  %li You are here:
+  = breadcrumbs(current_page)
+  = partial "includes/layout/handbook_search.html.haml"
+.container
+  .col-md-9
+    .row
+      - pages.each do |category, workflow_pages|
+        .col-xs-6.col-centered
+          %h4.clearfix
+            %i.fa.fa-folder-open-o.fa-fw.text-muted
+            %small.pull-right
+              %i.fa.fa-hdd-o.fa-fw
+              #{workflow_pages.count}
+            #{category}
+          - workflow_pages.each do |page|
+            %ul.fa-ul
+              %li
+                %i.fa-li.fa.fa-list-alt.fa-fw.text-muted
+                %h5
+                  = link_to page.data.title, "/" + page.path
+  .col-md-3
+    %section
+      .text-center.clearfix
+        %h4.text-danger About
+        %p This is a collection of SOPs used by the GitLab support team.
+    %section
+      %h4.clearfix Categories
+      %ul.nav
+      - pages.each do |category, workflow_pages|
+        %li
+          %a{:href => "#"}
+            %span.badge.pull-right> #{workflow_pages.count}
+            #{category}
