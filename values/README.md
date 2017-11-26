@@ -73,10 +73,10 @@ We care about working on the right things, not doing more than needed, and not d
 
 ### Diversity
 
-The community consists of people from all over the world, with different backgrounds and opinions. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example our sponsorship of [diversity events](https://about.gitlab.com/2016/03/24/sponsorship-update/) and a [double referral bonus](https://about.gitlab.com/handbook/incentives/#referral-bonuses).
+The community consists of people from all over the world, with different backgrounds and opinions. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. 
 
 1. **Culture fit is a bad excuse** We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward employees based on our shared values as detailed on this page. If they are measured against our shared values, they will already be a fit.
-We want cultural diversity instead of cultural conformity, for example, a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our [mission is everyone can contribute](https://about.gitlab.com/strategy/#mission).
+We want cultural diversity instead of cultural conformity, for example, a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution".
 1. **Don't bring religion or politics to work** We don't discuss religion or politics because it is easy to alienate people that have a minority opinion. Feel free to mention you attended a ceremony or rally, but don't mention the religion or party.
 1. **Quirkiness**: Unexpected and unconventional things make life more interesting.
 Celebrate and encourage quirky gifts, habits, behavior, and points of view. An example
