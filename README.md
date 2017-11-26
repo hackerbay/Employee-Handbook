@@ -5,13 +5,13 @@ The HackerBay team handbook is the central repository for how we run the company
 
 Please use issues to ask questions. 
 
-* [General](/handbook)
-  * [Values](/handbook/values)
-  * [General Guidelines](/handbook/general-guidelines)
-  * [Handbook Usage](/handbook/handbook-usage)
-  * [Communication](/handbook/communication)
-  * [Security](/handbook/security)
-  * [Anti-Harassment Policy](/handbook/anti-harassment)
+* [General](/)
+  * [Values](/values/README.md)
+  * [General Guidelines](/general-guidelines/README.md)
+  * [Handbook Usage](/handbook-usage/README.md)
+  * [Communication](/communication/README.md)
+  * [Security](/security/README.md)
+  * [Anti-Harassment Policy](/anti-harassment/README.md)
   * [Signing legal documents](/handbook/signing-legal-documents)
   * [Working remotely](/handbook/working-remotely)
   * [Tools and tips](/handbook/tools-and-tips)
