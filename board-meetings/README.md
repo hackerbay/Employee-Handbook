@@ -1,3 +1,5 @@
+# Board Meeting 
+
 ## Our Process
 
 1. Board Meetings happen first week of every quarter. Invitations and agenda will be sent out board members a week before the meeting.  
