@@ -1,18 +1,3 @@
----
-layout: markdown_page
-title: "Stock Options"
----
-
-----
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
-----
-
 ## Stock option grant levels
 
 |Level|Number of Options|
@@ -27,7 +12,7 @@ title: "Stock Options"
 If you make a promotion, we should issue a new stock option grant for the number of options that corresponds to the difference between your old level and new level. This is also the case if you currently have more options than what your old level is eligible for (for example, this can occur if you joined early in the history of the company).
 If we didn't please contact people operations.
 
-## About Your Ownership in GitLab
+## About Your Ownership in HackerBay
 
 At GitLab we strongly believe in employee ownership in our Company.  We are in business
 to create value for our shareholders and we want our employees to benefit from that shared success.
