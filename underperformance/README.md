@@ -29,7 +29,7 @@ For director and higher functions we are unlikely to offer a PIP and more likely
 
 ## Experience
 
-It is important to remember that the root cause of issues can be a variety of things, PIPs are not intended to be a negative document. They are an opportunity for the manager and their team member to work together to get the individual back on track. We have an example of this to share here, it is anonymized in line with keeping job feedback private as per the [General Guidelines](https://about.gitlab.com/handbook/general-guidelines);
+It is important to remember that the root cause of issues can be a variety of things, PIPs are not intended to be a negative document. They are an opportunity for the manager and their team member to work together to get the individual back on track. We have an example of this to share here, it is anonymized in line with keeping job feedback private as per the [General Guidelines](/general-guidelines/README.md);
 
 **HackerBay'er:**
 
@@ -49,7 +49,7 @@ A performance improvement plan includes the following:
    * Clear direction including metrics and concrete goals to improve (e.g. finish X before Y)
    * Resources/coaching necessary to achieve goals
 
-This [basic PIP template](https://docs.google.com/document/d/1qnfa6soVXhtRhfjr8dMMPPe024BoKo-7xzZKuf_bnfo/edit?usp=sharing) will provide a good start to creating the document. The template should be customized to fit the particular situation. All PIPs should be forwarded to the People Ops Generalist for final review and approval before delivery. This step will help ensure consistency in the PIP process for any affected team member and to protect GitLab should legal claims arise as a result of termination.
+This [basic PIP template](https://docs.google.com/document/d/1qnfa6soVXhtRhfjr8dMMPPe024BoKo-7xzZKuf_bnfo/edit?usp=sharing) will provide a good start to creating the document. The template should be customized to fit the particular situation. All PIPs should be forwarded to the People Ops Generalist for final review and approval before delivery. This step will help ensure consistency in the PIP process for any affected team member and to protect HackerBay should legal claims arise as a result of termination.
 
 3) Team member gets time (2-3 weeks depending on the role and circumstances) to demonstrate improvement and meet specific goals outlined in the PIP. If sufficient improvement is not made but progress is headed in the right direction, a plan period may be extended at the discretion of the manager.  By design, a PIP is expected to support a successful and sustained improvement in performance.
 
