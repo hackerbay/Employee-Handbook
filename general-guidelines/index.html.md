@@ -1,21 +1,9 @@
----
-layout: markdown_page
-title: "GitLab General Guidelines"
----
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
 ## General Guidelines
 
-1. Working at GitLab Inc. is cooperating with the most talented people you've ever worked with, being the **most productive** you'll ever be, and creating software that is helping the most people you've ever reached.
+1. Working at HackerBay, Inc. is cooperating with the most talented people you've ever worked with, being the **most productive** you'll ever be, and creating software that is helping the most people you've ever reached.
 1. We recognize that inspiration is perishable, so if you’re **enthusiastic** about something that generates great results in relatively little time feel free to work on that.
-1. Do what is right for our **customers** and the rest of the GitLab community, do what is best over the long term, don't be evil.
-1. We create **simple** software to accomplish complex collaborative tasks.
-1. We **use** our own software to accomplish complex collaborative tasks.
+1. Do what is right for our **customers** and the rest of the HackerBay community, do what is best over the long term, don't be evil.
+1. We build **simple** software. Simple is a keyword here. What we build should be simple enough so it can be used by anyone. 
 1. Do **not** make jokes or unfriendly remarks about race, ethnic origin, skin color, gender, or sexual orientation.
 1. Use **inclusive** language. For example, prefer "Hi everybody" or "Hi people" to "Hi guys".
 1. Share problems you run into, ask for help, be forthcoming with information and **speak up**.
@@ -27,14 +15,12 @@ title: "GitLab General Guidelines"
    - individual job applications / compensation / feedback
    - partnerships with other companies
    - customer information in issues: if an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, number of users, the issue should be made confidential.
-1. Share solutions you find and answers you receive with the **whole community**.
 1. If you make a mistake, don't worry, correct it and **proactively** let the affected party, your team, and the CEO know what happened, how you corrected it and how, if needed, you changed the process to prevent future mistakes.
 1. You can always **refuse** to deal with people who treat you badly and get out of situations that make you feel uncomfortable.
 1. Everyone can **remind** anyone in the company about these guidelines. If there is a disagreement about the interpretations, the discussion can be escalated to more people within the company without repercussions.
-1. If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer) please let your boss, or the CEO, know as soon as you realize it. We want to solve problems while they are **small**.
+1. If you are unhappy with anything (your duties, your colleague, your boss, your salary, your location, your computer) please let your manager, or the CEO, know as soon as you realize it. We want to solve problems while they are **small**.
 1. We want to have a great company so if you meet people that are **better** than yourself try to recruit them to join the company.
 1. Make a conscious effort to **recognize** the constraints of others within the team. For example, sales is hard because you are dependent on another organization, and Development is hard because you have to preserve the ability to quickly improve the product in the future.
-1. Please read and contribute to our [**strategy**](https://about.gitlab.com/strategy/).
 1. For each action or comment, it helps to ask yourself (i) does this help the company achieve its strategic goals? (ii) is this in the company's interest, and finally, (iii) how can I contribute to this effort/issue in a constructive way?
 1. There is no need for **consensus**, make sure that you give people that might have good insights a chance to respond (by /cc'ing them) but make a call yourself because [consensus doesn't scale](https://twitter.com/sama/status/585950222703992833).
 1. Everyone at the company cares about your **output**. Being away from the keyboard during the workday, doing private browsing or making personal phone calls is fine and encouraged.
