@@ -1,5 +1,35 @@
-# Values
+# Culture & Values
 
+**Be reliable:** We're a remote first company and you only have 1 standup/day. For a lot of us, that's the only call every day.  The only thing we ask you to do is to attend standups on time: We can't stress how important this is.  If you cant attend standups, let someone you report to know one day before. It'll help us not to call you on the day you dont attend these. If we call you and if you miss our calls, return them immediately when you see them. 
+
+**Transparency:** We should know what you're working on every single day. If you're stuck somewhere. Let us know. 
+
+**Be resilient & persevere:** Get things done. If you're stuck. Stick to it a little longer and you will be able to figure it out yourself. This is a life hack. Works all the time, everywhere. 
+
+**Never give up:** Shit goes down all the time. Fix it, do not run away from it. 
+
+**Fly Weeks:** We fly for 2 weeks every 3 months to an exotic place and work from there. We love travelling and exploring places. 
+
+**Personal Growth:** If you're not learning something new this week. Talk to your manager. We want you to grow. Don't know something? - Learn. 
+
+**Be ruthless:** Get things done. No matter what. Be a little crazy. Hack into systems. Never say - "Oops, I cant get this done". There's always a way. Always.
+
+**Remote:** Work from anywhere and anytime you like. Be with family.
+
+**Courses:** We pay for courses on Udemy. If you want to learn something, let us know. We have a lifelong learning mentality. Most courses are free, If they're not - we pay for it. 
+
+**Books:** We pay for 1 book/year. We know that's too less. We eventually want to pay for 24 books/year per employee. 
+
+**Transparency:** You know how much everyone makes including the founder. We have transparency not just in pay, but everywhere else too! We want to be as transparent as possible.  
+
+**We've never fired anyone:** We believe in coaching people, not firing them. We're a family and you never fire your family off. You coach them.  When we hire you. You're safe with us and you're employed for life, unless you make mistakes which are unforgiveable (For example: rarely work for long periods of time, sexually harass someone, etc). You can still resign and leave the company at any time you like, if you want. We prefer that you help us figure out the problems in the company and let's weed them out together! Stick with us for long and we promise it'll all be worth your time. 
+
+**Learn on the job:** When we started this company, we had no idea how buisness world works. All we had was a vision on where we want to be, determination to learn & a little patience. We learnt on the job and we expect you to do too. There will be many instances where you will have no idea how to do something. In that case - google is your best friend. Google things out. You'll be surprised on how much you can learn online. We've also cataloged few resources for you to learn on the job and have listed them out [here](/learn/README.md)
+
+**Fair Performace Review:** If you deserve a promotion. You will be promoted. Check [this document](/performance-reivew/README.md) on things that we expect from you if you want to be promoted.
+
+**Integrity:** Be honest all the time. You will lose respect with your peers if you aren't. 
+ 
 **Kindness** We value caring for others. Demonstrating we care for people provides an effective framework for challenging directly and delivering feedback. We disagree with companies that say [Evaluate People Accurately, Not "Kindly"](https://www.principles.com/#Principle-100). We're all for accurate assessment but we think it must be done in a kind way. Give as much positive feedback as you can and do it in a public way.
 
 **Negative is 1-1** Give negative feedback in the smallest setting possible, one-on-one video calls are preferred.
@@ -8,7 +38,7 @@
 
 **Give feedback effectively** Giving feedback is challenging, it's important to deliver it effectively. When providing feedback always make it about the work itself, focus on the business impact and not the person. Make sure to provide at least one clear and recent example. If a person is going through a hard time in their personal life, then take that into account. An example of giving positive feedback is our [#general chat channel](/internal-communication/README.md). For managers, it's important to realize that employees react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one. Keeping that in mind, when an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself. In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the employee’s performance going forward. Give recognition generously, in the open and often to generate more engagement from your team.
 
-**Get to know each other** We use a lot of text based communication and if you know the person behind the text it will be easier to prevent conflicts. So encourage people to get to know each other on a personal level through our [team calls](https://about.gitlab.com/handbook/communication/#team-call), [virtual coffee breaks](https://about.gitlab.com/handbook/working-remotely/#coffee-break-calls), and during our [summit](https://about.gitlab.com/culture/summits/).
+**Get to know each other** We use a lot of text based communication and if you know the person behind the text it will be easier to prevent conflicts. 
 
 **Don't pull rank** If you have to remind someone of the position you have in the company you're doing something wrong, people already know we have a hierarchical decision making process. Explain why you're making the decision and respect everyone irrespective of their function.
 
@@ -22,15 +52,11 @@
 
 **People are not their work** Always make suggestions about examples of work, not the person ("you didn't respond to my feedback about the design" instead of "you never listen"). And when receiving feedback keep in mind that feedback is the best way to improve and others want to see you succeed.
 
-**Learn yourself** We do not train people. You can learn MOST of the things yourself. Use resources like Google, Youtube, Udemy, Coursera and more to learn anything you like. 
+**Learn yourself** We do not train people. You can learn MOST of the things yourself. Use resources like Google, Youtube, Udemy, Coursera and more to learn anything you like. That's a great life-skill to have. 
 
+**Do what's promised** We do what we promised to each other, customers, users, and investors. We're here to build a sustainable world-class company that values our customers and our investors. 
 
-### Results
-
-We do what we promised to each other, customers, users, and investors.
-
-**Measure results not hours** We care about what you achieve; the code you shipped, the user you made happy, and the team member you helped. Do not compete by proclaiming how many hours you worked yesterday. Instead, celebrate the achievements of
-yourself and your teammates. You don't have to defend how you spend your day. We trust team members to do the right thing.
+**Measure results not hours** We care about what you achieve; the code you shipped, the user you made happy, and the team member you helped. Celebrate the achievements of yourself and your teammates.
 
 **Write promises down** Agree in writing on measurable goals. Within the company we use [public OKRs](/OKR/README.md) for that.
 
@@ -43,9 +69,8 @@ for anticipating and solving problems. As an owner you are responsible for overc
 
 **Sense of urgency** At an exponentially scaling startup time gained or lost has compounding effects. Try to get the results as fast as possible so the compounding of results can begin and we can focus on the next improvement.
 
-### Efficiency
 
-We care about working on the right things, not doing more than needed, and not duplicating work. This enables us to achieve more progress which makes our work more fulfilling.
+**Efficiency** We care about working on the right things, not doing more than needed, and not duplicating work. This enables us to achieve more progress which makes our work more fulfilling.
 
 **Boring solutions**: Use the most simple and boring solution for a problem. You can always make it more complex later if that is needed. The speed of innovation for our organization and product is constrained by the total complexity we have added so far, so every little reduction in complexity helps. Don't pick an interesting technology just to make your work more fun, using code that is popular will ensure many bugs are already solved and its familiarity makes it easier for others to contribute.
 
@@ -71,38 +96,34 @@ We care about working on the right things, not doing more than needed, and not d
 
 **Move fast by shipping the minimum viable change** We value constant improvement by iterating quickly, day after day. If a task is too big to deliver in few days or a week, cut scope.
 
-### Diversity
 
-The community consists of people from all over the world, with different backgrounds and opinions. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. 
+**Diversity** The community consists of people from all over the world, with different backgrounds and opinions. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. 
 
-1. **Culture fit is a bad excuse** We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward employees based on our shared values as detailed on this page. If they are measured against our shared values, they will already be a fit.
-We want cultural diversity instead of cultural conformity, for example, a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution".
-1. **Don't bring religion or politics to work** We don't discuss religion or politics because it is easy to alienate people that have a minority opinion. Feel free to mention you attended a ceremony or rally, but don't mention the religion or party.
-1. **Quirkiness**: Unexpected and unconventional things make life more interesting.
-Celebrate and encourage quirky gifts, habits, behavior, and points of view. An example
-is our [team call](https://about.gitlab.com/handbook/communication/#team-call) where we spend most of our time talking about what we did in our private lives, from fire-throwing to
-knitting. Open source is a great way to interact with interesting
-people. We try to hire people who think work is a great way to express themselves.
-1. **Building a safe community**  Everyone has the right to feel safe when working for GitLab and/or being a part of the GitLab community contributing to our community.  We do not tolerate abuse, harassment, exclusion, discrimination or retaliation by/of any community members, including our employees.
-1. **Inclusion** Rather than focusing on building diversity as a collection of activities, data, and metrics, we're choosing to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is [inclusive](https://about.gitlab.com/culture/inclusion/) and supports all employees equally to achieve their professional goals. We will refer to this intentional culture curation as inclusion and development (i & d).
-1. **Inclusive benefits** We list our [Transgender Medical Services](https://about.gitlab.com/handbook/benefits/#transgender-medical-services) and [Pregnancy & Maternity Care](https://about.gitlab.com/handbook/benefits/#pregnancy--maternity-care) publicly so people don't have to ask for them during interviews.
-1. **Inclusive language** In our [general guidelines](https://about.gitlab.com/handbook/general-guidelines/) we list: 'Use inclusive language. For example, prefer "Hi everybody" or "Hi people" to "Hi guys".'
-1. **Inclusive interviewing** As part of our [interviewing process](https://about.gitlab.com/handbook/hiring/interviewing/) we list: "The candidate should be interviewed by at least one female GitLab team member."
+**Global Impact** Solve problems that impact most people first.  
 
-### Iteration
+**Culture fit is a bad excuse** We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward employees based on our shared values as detailed on this page. If they are measured against our shared values, they will already be a fit. We want cultural diversity instead of cultural conformity, for example, a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution".
 
-We do the [smallest thing possible and get it out as quickly as possible](https://about.gitlab.com/2017/01/04/behind-the-scenes-how-we-built-review-apps/). If you make suggestions that can be excluded from the first iteration turn them into a separate issue that you link. Don't write a large plan, only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. This value is the one people underestimate when they join GitLab, the impact both on your work process and on how much you achieve is greater than anticipated. In the beginning it hurts to make decisions fast and to see that things are changed with less consultation. But frequently the simplest version turns out to be the best one.
+**Don't bring religion or politics to work** We don't discuss religion or politics because it is easy to alienate people that have a minority opinion. Feel free to mention you attended a ceremony or rally, but don't mention the religion or party.
 
-People that join GitLab all say they already practice this iteration. But this is the value that they have the hardest time adopting. People are trained that if you don't deliver a perfect or polished thing you get dinged for it. If you do just one piece of something you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. They see other people in the GitLab organization being really effective with iteration but don't know how to make the transition.
+**Building a safe community**  Everyone has the right to feel safe when working for HackerBay and/or being a part of the HackerBay community contributing to our community.  We do not tolerate abuse, harassment, exclusion, discrimination or retaliation by/of any community members, including our employees.
 
-The way to resolve this is to write down only what you can do the time you have for this project right now. That might be 5 minutes or 2 hours. Think of what you can complete in that time that would improve the current situation. Iteration feels uncomfortable, people might ask why something was not perfect. In that case mention that it was an iteration, you spend only x amount of time on it, and that the next iteration will contain y and be ready on z.
+**Inclusion** Rather than focusing on building diversity as a collection of activities, data, and metrics, we're choosing to [build and institutionalize](http://www.russellreynolds.com/en/Insights/thought-leadership/Documents/Diversity%20and%20Inclusion%20GameChangers%20FINAL.PDF) a culture that is inclusive and supports all employees equally to achieve their professional goals. We will refer to this intentional culture curation as inclusion and development (i & d).
 
-1. **Reduce cycle time** Short iterations reduce [our cycle time](/features/cycle-analytics/).
-1. **Work as part of the community** Small iterations make it easier to work with the wider community. Their work looks more like our work and our work is quicker to give feedback too.
-1. **Minimum Viable Change (MVC)** Always look to make the quickest change possible to improve the outcome. If you think it is better than what is there now do it, no need to wait for something polished.
-1. **Make a proposal** If you need to decide something as a team make a proposal instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time. The people that receive the proposal should not feel left out, the person making it should not feel bad if a completely different proposal is implemented. Don't let your ego to be involved early or to see your solution implemented stand in the way of getting to the best outcome.
-1. **Everything is in draft** At GitLab we rarely put draft on any content or proposals. Everything is always in draft and subject to change.
-1. **Under construction** As we get more users they will ask for stability, especially in our UX. We should always optimize for the long term. This means that users will be inconvenienced in the short term, but current and future users will enjoy a better product in the end.
+**Inclusive language**  Use inclusive language. For example, prefer "Hi everybody" or "Hi people" instead of "Hi guys".
+
+#### Iterations
+
+**Reduce cycle time** Short iterations reduce our cycle time. 
+
+**Work as part of the community** Small iterations make it easier to work with the wider community. Their work looks more like our work and our work is quicker to give feedback too.
+
+**Minimum Viable Change (MVC)** Always look to make the quickest change possible to improve the outcome. If you think it is better than what is there now do it, no need to wait for something polished.
+
+**Make a proposal** If you need to decide something as a team make a proposal instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time. The people that receive the proposal should not feel left out, the person making it should not feel bad if a completely different proposal is implemented. Don't let your ego to be involved early or to see your solution implemented stand in the way of getting to the best outcome.
+
+**Everything is in draft** At GitLab we rarely put draft on any content or proposals. Everything is always in draft and subject to change.
+
+**Under construction** As we get more users they will ask for stability. We should always optimize for the long term. This means that users will be inconvenienced in the short term, but current and future users will enjoy a better product in the end.
 
 ### Transparency
 
@@ -139,7 +160,7 @@ Values are a framework for distributed decision making, they allow you to determ
 
 ## Updating our values
 
-Our values are updated continually when needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. If you're a [team member](https://about.gitlab.com/team/) or in the [core team](https://about.gitlab.com/core-team/) please post a link to the MR in the #ceo channel. If you're not part of those groups please send a direct Twitter message to [@sytses](https://twitter.com/sytses).
+Our values are updated continually when needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. 
 
 ## How do we reinforce our values
 
@@ -164,6 +185,7 @@ From our values we excluded some behaviors that are obvious, we call them our pe
 - Act in the best interest of the company, our team members, our customers, users, and investors.
 - Act in accordance with the law.
 
-## Question from new team members
+## Questions?
 
-During every [GitLab 101 session with new hires](https://about.gitlab.com/culture/gitlab-101/) we discuss our values. We document the questions and answers to [Frequently Asked Questions about the GitLab Culture](https://about.gitlab.com/culture/gitlab-101/#frequently-asked-questions-about-the-gitlab-culture).
+Create an [issue](/issue)
+
