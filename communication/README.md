@@ -1,106 +1,33 @@
----
-layout: markdown_page
-title: "GitLab Communication"
-extra_js:
-  - libs/moment.min.js
-  - libs/moment-timezone-with-data.min.js
-  - team-call.js
----
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
+# Communication
 
 We're a **distributed**, **remote-only** company where people work remotely without missing out.
-For this, we use **asynchronous communication** and are as open as we can be by communicating through public issues, chat channels,
-and placing an emphasis on ensuring that conclusions of offline conversations are written down.
-These communication guidelines are meant to facilitate smooth communication in an
-ever-growing remote-only company.
-Please keep in mind that you represent GitLab and our culture, also on Social Media.
+For this, we use **asynchronous communication** and are as open as we can be by communicating through public issues, chat channels, and placing an emphasis on ensuring that conclusions of offline conversations are written down.
+These communication guidelines are meant to facilitate smooth communication in an ever-growing remote-only company.
+Please keep in mind that you represent HackerBay and our culture, also on Social Media.
 When commenting on posts please keep in mind: "Don't argue but represent."
 
-### GitLab Workflow
+### HackerBay Workflow
 
-#### Everything starts with an issue
-
-1. Always **create** an issue for things you work on. If it is worth spending time on, it is worth creating an issue since that enables other people to learn and help. You can always edit the description or close it when the problem changed to something different or was solved.
-1. If a user suggests an enhancement, try and find an existing issue that addresses their concern, or create a new one. Ask if they'd like to elaborate on their idea in one of these issues.
-1. **Double link** issues to prevent internal confusion and us failing to report back to the reporters. For example, open an issue with a link to ZenDesk and close the issue with a copy of the response. Or add "Report: " lines to the description with links to relevant issues and feature requests and ensure they are closed and note this with a comment. If you are not responsible for reporting back please do not close an issue, instead re-assign it.
-1. If two issues are related, **crosslink** them (a link from each issue to the other one). Put the link at the top of each issue's description with a short mention of the relationship (Report, etc.). If there are more than 2 issues, use one issue as the central one and crosslink all issues to this one. Please, also crosslink between ZenDesk and GitLab issues.
-1. After a discussion about a feature **update the issue body** with the consensus or final conclusions. This makes it much easier to see the current state of an issue for everyone involved in the implementation and prevents confusion and discussion later on.
-1. Submit the **smallest** item of work that makes sense. When creating an issue describe the smallest fix possible, put suggestions for enhancements in separate issues and link them. If you're new to GitLab and are writing documentation or instructions, submit your first merge request for at most 20 lines.
-1. Do not leave issues open for a long time, issues should be **actionable** and realistic. If you are assigned to an issue but don't have time to work on it, assign it to someone else.
-1. Make a conscious effort to **prioritize**<a name="prioritize"></a> your work. The priority of items depends on multiple factors: Is there a team member waiting for the answer? What is the impact if you delay it? How many people does it affect, etc.? This is detailed in [Engineering Workflow](/handbook/engineering/workflow).
-1. Use the public issue trackers on GitLab.com for everything since [we work out in the open](https://about.gitlab.com/2015/08/03/almost-everything-we-do-is-now-open/). Issue trackers that can be found on the relevant page in the handbook and in the projects under [the gitlab-com group](https://gitlab.com/gitlab-com/).
-1. Pick issues from the current [milestone](https://gitlab.com/groups/gitlab-org/milestones).
-1. We try not to assign issues to people but to have people **pick issues** in a milestone themselves.
-1. Assign an issue to yourself as soon as you start to work on it, but not
-  before that time. If you complete part of an issue and need someone else to
-  take the next step, **re-assign** the issue to that person.
-1. When re-assigning an issue, make sure that the issue body contains the latest information. The issue body should be the **single source of truth**.
-1. When working on an issue, **ask for feedback** from your peers. For example, if you're a designer and you propose a design, ping a fellow designer to review your work. If they approve, you can move it to the next step. If they suggest changes, you get the opportunity to improve your design. This promotes collaboration and advances everyone's skills.
-1. We keep our **promises** and do not make external promises without internal agreement.
-1. Do not close an issue until it is **[done][d-o-d]**.
-1. When **closing** an issue leave a comment explaining why you are closing the issue.
-
-[d-o-d]: https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#definition-of-done
-
-#### Implement it with a merge request
-
-Merge request guidelines for all contributors are described in our [Contribution
-guide][mr-guidelines].
-
-Code review guidelines for reviewers and maintainers are described in our [Code
-Review Guidelines][code-review-guidelines].
-
-Following are additional guidelines for GitLab Inc. team
-members:
-
-1. Even when something is not done, share it internally so people can comment
-  early and prevent rework. Create a **[Work In
-  Progress](https://about.gitlab.com/2016/01/08/feature-highlight-wip/)** merge request so it is not merged by accident.
-1. If any followup actions are required on the issue after the merge request is
-  merged (like reporting back to any customers or writing documentation), avoid
-  auto closing it.
-1. When _you_ are done with your merge request, remove the "WIP" prefix and
-  follow the [Code Review Guidelines][code-review-guidelines].
-1. You can still make changes based on feedback of course, but by removing the
-  "WIP" prefix it clarifies that the main body of work has been completed.
-
-[mr-guidelines]: https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#merge-request-guidelines
-[code-review-guidelines]: https://docs.gitlab.com/ce/development/code_review.html
 
 ### Internal Communication
 
 1. All written communication happens in English, even when sent one on one,
 because sometimes you need to forward an email or chat.
-1. Use **asynchronous communication** when possible (issues and email instead of chat)
-1. Issues are preferred over email, email is preferred over chat, announcements happen on the team call agenda, and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
-1. To use email instead of chat it is OK to send an _internal_ email that contains only a short message, similar as you would use in chat. Save time by not including a salutation like 'Hi Emma,' and first write the subject of the email which you copy and paste into the body. You are not expected to be available all the time. It is perfectly fine to respond to emails and chat mentions until your planned work hours.
-1. Sometimes synchronous communication is the better option, but do not default
-to it. See the [guidelines on video chats](#video-calls) for more detail.
-1. It is very OK to ask as many questions as you have, but ask them so many
-people can answer them and many people see the answer (so use issues or public
-chat channels instead of private messages or one-on-one emails) and make sure
-you try to document the answers.
-1. If you mention something (a merge request, issue, commit, webpage, comment,
-etc.) please include a link to it.
-1. All company data should be **shareable** by default. Don't use a local text
-file but rather leave comments on an issue.
+1. Use **asynchronous communication** when possible
+1. Everyone at HackerBay has a personal internal trello board. If you want someone to do a task, then add it to that personal trello board. The link of the personal board is visible on everyone's profile on Slack. 
+1. Trello Cards are preferred over chat, if you have a task that needs to be done by someone personally. Please add it to the personal trello board, announcements happen on the team standup call, and [people should be able to do their work without getting interrupted by chat](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d#.21t7089jk).
+1. Sometimes synchronous communication is the better option, but do not default to it. See the [guidelines on video chats](#video-calls) for more detail.
+1. It is very OK to ask as many questions as you have, but ask them so many people can answer them and many people see the answer (so use issues or public chat channels instead of private messages or one-on-one emails) and make sure you try to document the answers.
+1. If you mention something (a merge request, issue, commit, webpage, comment, etc.) please include a link to it.
+1. All company data should be **shareable** by default. Don't use a local text file but rather leave comments on an issue.
 1. When someone asks something give back a deadline or that you did it. Answers like: 'will do', 'OK', 'it is on my todo list' are not helpful. If it is small is better to spend 2 minutes and do the tasks so the other person can mentally forget about it. If it is large you need to figure out when you'll do it, by returning that information the other person might decide to solve it in another way if it takes too long.
 
 ### Email
 
-1. Send one email per subject as multiple items in one email will cause delays
-(have to respond to everything) or misses (forgot one of the items).
-1. Always reply to emails, even when no action is needed. This lets the other
-person know that you received it. A thread is done when there is a single word
-reply, such as OK, thanks, or done.
-1. If you forward an email without other comments please add FYI (for your
-information), FYA (for your action), or FYJ (for your judgment). If you forward an external request with FYJ it just means the person who forwarded it will not follow up on the request and expects you to decide if you should follow up or not.
-1. Email forwarding rules are specified in the shared _GitLab Email Forwarding_ Google Doc accessible only to people in the company. If you want to be added or removed from an internal alias (for example, "sales@gitlab.com"), change a rule, or add a forwarding email alias, please [suggest an edit](https://support.google.com/docs/answer/6033474?hl=en) in the doc.
+1. Send one email per subject as multiple items in one email will cause delays (have to respond to everything) or misses (forgot one of the items).
+1. Compose _internal_ email that contains only a short message, similar as you would use in chat. Save time by not including a salutation like 'Hi Emma,' and first write the subject of the email which you copy and paste into the body. You are not expected to be available all the time. It is perfectly fine to respond to emails and chat mentions until your planned work hours.
+1. Always reply to emails, even when no action is needed. This lets the other person know that you received it. A thread is done when there is a single word reply, such as OK, thanks, or done.
+1. If you forward an email without other comments please add FYI (for your information), FYA (for your action), or FYJ (for your judgment). If you forward an external request with FYJ it just means the person who forwarded it will not follow up on the request and expects you to decide if you should follow up or not.
 1. Emails are asynchronous, for example, if your manager emails you on a weekend it is fine to reply during the workweek.
 1. If an email is or has become urgent feel free to ping people via chat referencing the subject of the email.
 
@@ -116,8 +43,6 @@ to personal mentions in a timely manner since people get pinged too frequently.
 If something is urgent and important:
    * Use `@here` to notify all currently _active_ members in the room.
    * Use `@channel` to notify _ALL_ members in the room, irrespective of away status.
-1. If something is important but not urgent - like complimenting or encouraging the
-entire team - use email or post in the channel without `@`-mentioning the team.
 1. If you agree in a chat to start a video call (typically by asking "Call?")
 the person that didn't leave the last comment starts the call. So either respond
 to the "Call?" request with a video link or say "Yes" and let the other person
@@ -125,53 +50,27 @@ start it. Don't say "Yes" and start a call 5 seconds later since it is likely
 you'll both be creating a video call link at the same time.
 1. The usage of ChatBots for integrations can sometimes depend upon the name of the chat room. You should consult the room about such integrations before changing the name of commonly used / popular rooms in order to avoid inadvertently breaking integrations.
 
-### Google Docs
-
-1. Never use a Google Doc / Presentations for something non-confidential that has to end up on the website or the **handbook**. Work on these edits via commits to a merge request. Then link to the merge request or diff to present the change to people. This prevents a duplication of effort and/or an out of date handbook.
-1. If you _do_ need a Google Doc, create one with your company G Suite (formerly Google
-Apps) account. By default, share it with the whole company using the _Anyone at GitLab can find and access_ link sharing permission
-and the _Anyone within GitLab can edit_ access permission (preferred) or the _Anyone within GitLab can comment_ access permission.
-Easily do this by creating Google Docs within a Shared Folder in Google Drive.
-1. When referring to a Google Doc in the handbook, refrain from directly linking it. Instead, indicate the name of the doc.
-(In the past, linking a Google Doc has led to inadvertently opening the sharing settings beyond what was intended.)
-This also helps prevent spam from people outside GitLab requesting access to a doc when clicking its link.
-1. If you are having trouble finding a shared Google Doc, make sure you [Search &lt;your domain&gt;](https://support.google.com/a/answer/3187967?hl=en) in Google Drive.
-1. In our handbook, if you find yourself wondering whether it is better to provide a public link to a Google Doc vs. writing out the content on the website, use the following guideline: Is this document frequently adapted / customized? If yes, then provide a link, making sure that the document can be _commented on_ by _anyone_ with the link. For instance, this is how we share our employment [contracts](/handbook/contracts/). If the document is rarely customized, then provide the content directly on the site and deprecate the Google Doc.
-
-### Presentations
-
-1. All presentations are made in Google Slides using our template named 'GitLab-Deck-Template-Light'.
-1. The title of every slide should be the message you want the audience to take away, not the subject matter. So use 'Our revenue more than doubled' instead of 'Revenue growth'.
-
 ### Say Thanks
 
 1. Thank people that did a great job in our "Thanks" chat channel. If someone is
 a team member just @ mention them. If multiple people were working on something
 try mentioning each person by "@name". "Thanks everyone" does not say much.
-1. To thank someone who is not a team member, mention your manager, our People Ops Coordinator, the name of the person, a quirky gift
-and link to their work. For example, "@manager, @peopleopscoordinator: Joe deserves a lawnmower for _link_".
-With your manager's blessing, the People Ops Coordinator will approach the person in question for their address saying we want to send
-some swag. We'll ship it in gift wrap with "Thanks for your great work on _link_, love
-from @gitlab".
-1. Don't thank the CEO or other executives for something that the company paid for, thank GitLab instead.
+1. To thank someone who is not a team member, mention your manager, our People Ops Coordinator, the name of the person, a quirky gift and link to their work. For example, "@manager, @peopleopscoordinator: Joe deserves a lawnmower for _link_".
+With your manager's blessing, the People Ops Coordinator will approach the person in question for their address saying we want to send some swag. We'll ship it in gift wrap with "Thanks for your great work on _link_, love from @HackerBay".
+1. Don't thank the CEO or other executives for something that the company paid for, thank HackerBay instead.
 
 ### Not sure where to go?
 
 If there is something that you want to discuss, but you do not feel that it is
 a reasonable option to discuss with either your manager or CEO, then you can reach
-out to any of the other C-level GitLabbers or our board member Bruce Armstrong.
+out to any of the People Ops and they will redirect the request to someone more relevant. 
 
 ### Team Call
 
 1. Schedule
-   * PST: <span id="main-PST"></span>
-   * UTC: <span id="main-UTC"></span>
-   * <span id="main-abbr"></span>: <span id="main-USER"></span>
-1. APAC schedule
-   * PST: <span id="apac-PST"></span>
-   * UTC: <span id="apac-UTC"></span>
-   * <span id="apac-abbr"></span>: <span id="apac-USER"></span>
-1. Everyone at GitLab is invited to the team call.
+   * GMT: 2:00 PM Monday to Friday. 
+   * IST: 7:30 PM Monday to Friday. 
+1. Everyone at HackerBay is invited to the team call.
 1. There is an additional makeup team call on Fridays where anyone who missed their weekend update can share what they have been up to. Optionally, team members can share an update if they feel so inclined. Please add your name to the list for that day.
 1. We also have a team call for GitLabbers in the APAC region to share their weekend update. This call will also be recorded so the rest of the team can see what their colleagues have been up to! Everyone is encouraged to join this call as well, but it is not mandatory.
 1. Every last Friday of the month we have an AMA to talk about anything our team is thinking about.
