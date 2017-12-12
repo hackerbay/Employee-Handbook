@@ -73,6 +73,6 @@ Please use issues to ask questions.
   * [Technical Writing](/product/technical-writing/README.md)
   * [Markdown Guide](/technical-writing/markdown-guide/README.md)
 * [Legal](/legal/README.md)
+* [Credits](/credits/README.md)
 
 
-This handbook has been forked from [GitLab Team Handbook.](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook) 
