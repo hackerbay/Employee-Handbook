@@ -187,5 +187,5 @@ From our values we excluded some behaviors that are obvious, we call them our pe
 
 ## Questions?
 
-Create an [issue](/issue)
+Create an [issue](https://github.com/hackerbay/handbook/issues)
 
