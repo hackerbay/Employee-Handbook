@@ -102,17 +102,3 @@ People Operations Generalist are responsible for:
 
 Retaliation of any sort for filing a claim of harassment will not be tolerated.  If you believe you have been retaliated against, please contact the People Operations Generalist to initiate an investigation.
 
-
-## Resources
-
-We are continuously gathering country specific references to review regulation and obtain guidance on the management of harassment or misconduct at work. Here are a few authorities we referred to in the creation of this policy:
-
-- [Equal Employer Opportunity Commission (EEOC)](https://www.eeoc.gov/laws/index.cfm)
-- [Society of Human Resource Management (SHRM)](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/pages/federal-statutes-regulations-and-guidance.aspx)
-
-## Further Guidance (Country Specific)
-
-- [UK: Acas (advisory service for employees and employers)](http://www.acas.org.uk/index.aspx?articleid=1864)
-- [The Netherlands: Inspectorate SZW](https://www.inspectieszw.nl/)
-- [India: Ministry of Labour & Employment](http://www.labour.nic.in/)
-- [Belgium: Unia: For equality, against discrimination](http://unia.be/en)
