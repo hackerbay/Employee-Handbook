@@ -34,6 +34,7 @@ Please use issues to ask questions.
   * [Performance Review for Engineers](/engineering/performance-review/README.md)
   * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
   * [Working with clients](/engineering/consulting/clients/README.md)
+  * [Interviewing Software Engineers](/engineering/interviewing/README.md)
 * Admin
   * [Onboarding for Admin](/admin/onboarding/README.md)
 * Marketing
