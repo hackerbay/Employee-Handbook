@@ -1,4 +1,4 @@
-#Learn
+# Learn
 
 - We always make sure you learn and acquire new skills every week you work with us. We want to make sure you grow both personally and professionally too.
 - We don't expect you have ALL the skills when you join us, but you're expected to acquire those skills within few weeks of working with us. We value and love working with people who learn fast, and deliver fast.
@@ -14,28 +14,28 @@ Here are few learning resources we found that might help you along the way. Most
 
 ##### Engineering
 
-*ReactJS (Video Course):* https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+**ReactJS (Video Course):** https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 
-*Kubernetes (Video Course):* https://www.youtube.com/watch?v=Co3Ur-MbcYY&list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
+**Kubernetes (Video Course):** https://www.youtube.com/watch?v=Co3Ur-MbcYY&list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
 
-*Deep Learning (Coursera Course):* https://deeplearning.ai
+**Deep Learning (Coursera Course):** https://deeplearning.ai
 
 
 ##### Sales
-*Developer Tool (Video Playlist)* : www.heavybit.com
+**Developer Tool (Video Playlist)** : www.heavybit.com
 
-*SPIN Selling (Book)* : https://books.google.co.in/books/about/SPIN_Selling.html?id=93M1DgAAQBAJ&source=kp_cover&redir_esc=y
+**SPIN Selling (Book)** : https://books.google.co.in/books/about/SPIN_Selling.html?id=93M1DgAAQBAJ&source=kp_cover&redir_esc=y
 
 
 ##### Marketing
-*Developer Tool (Video Playlist)* : www.heavybit.com
+**Developer Tool (Video Playlist)** : www.heavybit.com
 
-*Purple Cow (Book)* : https://books.google.co.in/books?id=WlnnQ6HklysC&printsec=frontcover&dq=purple+cow&hl=en&sa=X&ved=0ahUKEwiHmsPjiafYAhVJL48KHbs1AcsQ6AEIKDAA#v=onepage&q=purple%20cow&f=false
+**Purple Cow (Book)** : https://books.google.co.in/books?id=WlnnQ6HklysC&printsec=frontcover&dq=purple+cow&hl=en&sa=X&ved=0ahUKEwiHmsPjiafYAhVJL48KHbs1AcsQ6AEIKDAA#v=onepage&q=purple%20cow&f=false
 
-*Made to Stick (Book)* https://books.google.co.in/books?id=OUgCHkxZTX4C&printsec=frontcover&dq=made+to+stick&hl=en&sa=X&ved=0ahUKEwifitPoiafYAhVMNI8KHYGOAh0Q6AEIKDAA
+**Made to Stick (Book)** https://books.google.co.in/books?id=OUgCHkxZTX4C&printsec=frontcover&dq=made+to+stick&hl=en&sa=X&ved=0ahUKEwifitPoiafYAhVMNI8KHYGOAh0Q6AEIKDAA
 
 
 ##### Entrepreneurship & Management
-*How to start a startup (Video Course):* https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1
+**How to start a startup (Video Course):** https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1
 
-*Blitzscaling (Video Course):* https://www.youtube.com/watch?v=s3RrVmv5WwA
+**Blitzscaling (Video Course):** https://www.youtube.com/watch?v=s3RrVmv5WwA

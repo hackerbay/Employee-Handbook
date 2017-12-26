@@ -9,8 +9,8 @@ Please use issues to ask questions.
   * [Values](/general/values/README.md)
   * [General Guidelines](/general/guidelines/README.md)
   * [Anti-Harassment Policy](/general/anti-harassment/README.md)
-* [OKR](/OKR/README.md)
-  * [Company](/OKR/company/README.md)
+* [Objective and Key Results (OKR)](/OKR/README.md)
+  * [Company OKR](/OKR/company/README.md)
 * [Learning Resources](/learn/README.md)
 * People Operations
   * [Performance Review](/people-operations/performance-review/README.md)
