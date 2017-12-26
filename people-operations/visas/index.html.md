@@ -6,7 +6,7 @@ In some cases when traveling to a conference, summit, or when you're vacationing
 
 Always **check the website of the Embassy of the Country you want to visit** located in your home country. They will have the most updated information on whether or not you need a visa and what is needed for your application. 
 
-If you need a visa to travel to the United States, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSf4jxAven_AjHLFruPEhLx5nxrfkyLHABgVji2yqdr8hhUHuQ/viewform). You should recieve support letters on your email in 2 business days from People-Ops. After you recieve them, please check the letter for accuracy. 
+Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSf4jxAven_AjHLFruPEhLx5nxrfkyLHABgVji2yqdr8hhUHuQ/viewform). You should recieve support letters on your email in 2 business days from People-Ops. After you recieve them, please check the letter for accuracy. 
 
 #### Tips & Tricks for visa arrangements 
 
