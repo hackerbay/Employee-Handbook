@@ -33,7 +33,7 @@ Please use issues to ask questions.
   * [Code Review and Practices](/engineering/code-review/README.md)
   * [Performance Review for Engineers](/engineering/performance-review/README.md)
   * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-  * [Working with clients](/engineering/consutling/clients/README.md)
+  * [Working with clients](/engineering/consulting/clients/README.md)
 * Admin
   * [Onboarding for Admin](/admin/onboarding/README.md)
 * Marketing
