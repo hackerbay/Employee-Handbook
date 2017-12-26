@@ -8,11 +8,11 @@
 - We've never fired anyone (yet!), but there's a high chance of being fired if you take a really really long time to learn. - There are just few skills we can test at the interview stage (which just lasts few hours). Skills like "How fast you learn?", "Can you learn by yourself?", "Can you solve problems by yourself?" and more will be tested when you're on the job.
 
 
-### Resources
+## Resources
 
 Here are few learning resources we found that might help you along the way. Most of these resources have been discovered by our team. If you found something interesting that you want to share. Please add in here. This file is editable by everyone.
 
-##### Engineering
+### Engineering
 
 **ReactJS (Video Course):** https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
 
@@ -21,13 +21,13 @@ Here are few learning resources we found that might help you along the way. Most
 **Deep Learning (Coursera Course):** https://deeplearning.ai
 
 
-##### Sales
+### Sales
 **Developer Tool (Video Playlist)** : www.heavybit.com
 
 **SPIN Selling (Book)** : https://books.google.co.in/books/about/SPIN_Selling.html?id=93M1DgAAQBAJ&source=kp_cover&redir_esc=y
 
 
-##### Marketing
+### Marketing
 **Developer Tool (Video Playlist)** : www.heavybit.com
 
 **Purple Cow (Book)** : https://books.google.co.in/books?id=WlnnQ6HklysC&printsec=frontcover&dq=purple+cow&hl=en&sa=X&ved=0ahUKEwiHmsPjiafYAhVJL48KHbs1AcsQ6AEIKDAA#v=onepage&q=purple%20cow&f=false
@@ -35,7 +35,7 @@ Here are few learning resources we found that might help you along the way. Most
 **Made to Stick (Book)** https://books.google.co.in/books?id=OUgCHkxZTX4C&printsec=frontcover&dq=made+to+stick&hl=en&sa=X&ved=0ahUKEwifitPoiafYAhVMNI8KHYGOAh0Q6AEIKDAA
 
 
-##### Entrepreneurship & Management
+### Entrepreneurship & Management
 **How to start a startup (Video Course):** https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1
 
 **Blitzscaling (Video Course):** https://www.youtube.com/watch?v=s3RrVmv5WwA
