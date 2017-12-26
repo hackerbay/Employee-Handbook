@@ -169,6 +169,17 @@ From our values we excluded some behaviors that are obvious, we call them our pe
 - Act in the best interest of the company, our team members, our customers, users, and investors.
 - Act in accordance with the law.
 
+## Future
+
+Here are few things we really want to do. Since we're bootstrapped, all of this depends on revenues we clock into the company with our products and services.
+- Sponsor an International Vacation every year for you and your spouse.
+- Pay for a fully furnished home with maid / cook.
+- Pay for travel expenses when attending conferences abroad.
+- Books : Pay for 24 books/year.
+- Food: Pay for lunch everyday.
+- Education : Pay for your kids education.
+- Club & Gym memberships : We care for your health.
+
 ## Questions?
 
 Create an [issue](https://github.com/hackerbay/handbook/issues)
