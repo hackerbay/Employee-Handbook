@@ -19,7 +19,7 @@ Please use issues to ask questions.
   * [Salary and Leave Policy](/people-operations/salary-and-leave/README.md)
   * [Salary Slabs](/people-operations/salary/README.md)
   * [Performance Review](/people-operations/performance-review/README.md)
-  * [Underperformace](/people-operations/underperformace/README.md)
+  * [Underperformance](/people-operations/underperformance/README.md)
   * [Travel](/people-operations/travel/README.md)
   * [Visa](/people-operations/visa/README.md)
   * [Company Equipment](/people-operations/company-equipment/README.md)
