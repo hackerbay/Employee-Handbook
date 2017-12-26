@@ -5,18 +5,18 @@ The HackerBay Employee handbook is the central repository for how we run the com
 
 Please use issues to ask questions. 
 
-* [General](/)
+* General
   * [Values](/values/README.md)
   * [General Guidelines](/general-guidelines/README.md)
   * [Handbook Usage](/handbook-usage/README.md)
   * [Communication](/communication/README.md)
   * [Security](/security/README.md)
   * [Anti-Harassment Policy](/anti-harassment/README.md)
-* [People Operations](/handbook/people-operations/README.md)
+* People Operations
   * [Visas](/handbook/people-operations/visas/README.md)
-* [Engineering](/handbook/engineering)
+* Engineering
   * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-* [Finance](/handbook/finance)
+* Finance
   * [Stock Options](/handbook/stock-options)
 * [Legal](/legal/README.md)
 * [Credits](/credits/README.md)
