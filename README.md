@@ -10,6 +10,7 @@ Please use issues to ask questions.
   * [General Guidelines](/general/guidelines/README.md)
   * [Basic Etiquette](/general/basic-etiquette/README.md)
   * [Anti-Harassment Policy](/general/anti-harassment/README.md)
+  * [Paycheck](/general/paycheck/README.md)
 * [Objective and Key Results (OKR)](/OKR/README.md)
   * [Company OKR](/OKR/company/README.md)
 * [Learning Resources](/learn/README.md)
