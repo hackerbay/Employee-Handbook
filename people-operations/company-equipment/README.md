@@ -9,3 +9,4 @@
 - If a machine is available from past employees that we consider is good, we will courier that to you instead and not buy a new one.
 - If a machine is returned from an employee that is old. It will be donated to an NGO.
 - If you fail to return the equipment after you leave the company. We might see this as theft of company's property, and we'll file a report with local police.
+- Employees only in India and in the United States are eligible for this. We're working on to have this in other countries soon.
