@@ -30,6 +30,7 @@
 #### Medical Leave
 - Inform your manager and your client (if you have any) immediately.
 - If you're off for more than a day and are on a medical leave, then it is mandatory to submit Doctors Prescription / Hospital Records & Invoice. We usually let client know about your health and also send them this evidence.
+- Doctor Prescription / Hospital Records should be in English. These are sent to clients. If they're not in english, then a notarised translation is required. 
 
 ### Maternity Leave:
 - You can take a leave off upto 18 months.
