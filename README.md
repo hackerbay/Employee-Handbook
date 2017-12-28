@@ -49,4 +49,13 @@ Please use issues to ask questions.
   * [Board of Advisors](https://hackerbaycompany.slack.com/files/U033XTX4D/F5AGZ5W7J/Board_of_Advisors)
   * [Management Team](/leadership/management/README.md)
 * [Legal](/legal/README.md)
+  * For Customers and Clients
+    * [Non-Disclosure Agreement](https://www.docracy.com/9qx4o7x1m0/non-disclosure-agreement-hackerbay-inc?highlightComment=-1&startOnComments=false)
+    * [Software Development Contract](https://www.docracy.com/5rj5hdzqan/software-development-contract-hackerbay-software-private-limited?startOnComments=false)
+    * [Employment Offer Letter](https://www.docracy.com/5rj5hdzqan/software-development-contract-hackerbay-software-private-limited?startOnComments=false)
+  * For Employees
+    * [Employment Offer Letter](https://www.docracy.com/0m79q9ql163/employment-offer-letter)
+    * [Promotion Letter](https://www.docracy.com/4py5b8esrs/employee-promotion-letter)
+    * [Company Property Agreement](https://www.docracy.com/0tlbum6n73x/hackerbay-inc-property-agreement)
+    * [Relieving Letter](https://www.docracy.com/0lviaxhk0zk/hackerbay-inc-relieving-letter)
 * [Credits](/credits/README.md)
