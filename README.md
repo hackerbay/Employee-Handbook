@@ -9,6 +9,7 @@ Please use issues to ask questions.
   * [Values](/general/values/README.md)
   * [General Guidelines](/general/guidelines/README.md)
   * [Basic Etiquette](/general/basic-etiquette/README.md)
+  * [Work Ethic](/general/work-ethic/README.md)
   * [Anti-Harassment Policy](/general/anti-harassment/README.md)
   * [Paycheck](/general/paycheck/README.md)
 * [Objective and Key Results (OKR)](/OKR/README.md)
@@ -17,6 +18,7 @@ Please use issues to ask questions.
 * People Operations
   * [Onboarding](/people-operations/onboarding/README.md)
   * [Standups](/people-operations/standups/README.md)
+  * [Working with Hubstaff](/people-operations/hubstaff/README.md)
   * [Salary and Leave Policy](/people-operations/salary-and-leave/README.md)
   * [Salary Slabs](/people-operations/salary/README.md)
   * [Performance Review](/people-operations/performance-review/README.md)
