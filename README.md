@@ -52,7 +52,6 @@ Please use issues to ask questions.
   * For Customers and Clients
     * [Non-Disclosure Agreement](https://www.docracy.com/9qx4o7x1m0/non-disclosure-agreement-hackerbay-inc?highlightComment=-1&startOnComments=false)
     * [Software Development Contract](https://www.docracy.com/5rj5hdzqan/software-development-contract-hackerbay-software-private-limited?startOnComments=false)
-    * [Employment Offer Letter](https://www.docracy.com/5rj5hdzqan/software-development-contract-hackerbay-software-private-limited?startOnComments=false)
   * For Employees
     * [Employment Offer Letter](https://www.docracy.com/0m79q9ql163/employment-offer-letter)
     * [Promotion Letter](https://www.docracy.com/4py5b8esrs/employee-promotion-letter)
