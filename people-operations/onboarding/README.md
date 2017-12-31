@@ -10,7 +10,7 @@ This document is for all new employees.
   - Please make sure your username is <firstname><lastname> and you have a good profile picture uploaded to Slack. This will ensure team members can recognize you and contact you easily.
   - We use Slack as our primary mode of communication. It's a good idea to have the Slack app downloaded and installed both on your Desktop and on your phone.
   - Please also update your Slack Profile with Email, Phone Number, and Skype Username. It'll be easier for other team members to reach out.
-  - Our company Slack URL is hackerbaycomapny.slack.com
+  - Our company Slack URL is hackerbaycompany.slack.com
 
 - Send your Passport (if you don't have your passport, send in your valid Govt ID instead. Also, apply for a passport immediately.), Your Address, Your Bank Account Details (Ac No, IFSC, Account Name, Bank Name, Branch Name, and Bank Address), Your National ID, Your valid Tax ID, Your primary and secondary contact number - to legal@cloudboost.io
 
@@ -45,4 +45,4 @@ This document is for all new employees.
 - [For Sales](/sales/onboarding/README.md)
 - [For Marketing](/marketing/onboarding/README.md)
 
-If you have any questions. Please contact your manager. 
+If you have any questions. Please contact your manager.
