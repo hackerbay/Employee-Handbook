@@ -1,3 +1,3 @@
 # Mission
 
-To accelerate progress in this world.
+To accelerate progress in the world.
