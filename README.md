@@ -33,7 +33,7 @@ Please use issues to ask questions.
   * [Resignation](/people-operations/resignation/README.md)
 * Engineering
   * [Onboarding for Engineers](/engineering/onboarding/README.md)
-  * [Working with Trello](/engineering/trello/setup/README.md)
+  * [Working with Trello](/engineering/trello/README.md)
   * [Setting up CloudBoost](/engineering/cloudboost/setup/README.md)
   * [Code Review and Practices](/engineering/code-review/README.md)
   * [Performance Review for Engineers](/engineering/performance-review/README.md)
