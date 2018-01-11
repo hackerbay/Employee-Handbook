@@ -6,6 +6,7 @@ The HackerBay Employee Handbook is the central repository for how we run the com
 Please use issues to ask questions.
 
 * General
+  * [Mission Statement](/general/vision-mission/README.md)
   * [Values](/general/values/README.md)
   * [General Guidelines](/general/guidelines/README.md)
   * [Basic Etiquette](/general/basic-etiquette/README.md)
@@ -32,6 +33,7 @@ Please use issues to ask questions.
   * [Resignation](/people-operations/resignation/README.md)
 * Engineering
   * [Onboarding for Engineers](/engineering/onboarding/README.md)
+  * [Working with Trello](/engineering/trello/setup/README.md)
   * [Setting up CloudBoost](/engineering/cloudboost/setup/README.md)
   * [Code Review and Practices](/engineering/code-review/README.md)
   * [Performance Review for Engineers](/engineering/performance-review/README.md)
