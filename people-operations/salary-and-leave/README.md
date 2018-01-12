@@ -22,15 +22,14 @@
 
 ### Apply for leaves
 
-- If you want to take a leave for a day. Let @nawazdhandala & someone you report to know a day before.
-- If you want to take a leave for few days to a week. Let us know a week before, so we can accomodate.
-- If you're looking for a month off. Let us know a month before.
-- **Emergency:** We understand this sometimes happens. Let us know as soon as you can.
+- You need to apply for a leave by filling this [Employee Leave Application Form](https://goo.gl/forms/CMBk4exneeCBk1jb2)
+- Your manager would let you know if your leave is approved.
+- **Emergency:** We understand this sometimes happens. Fill the form as soon as you can.
 
 #### Medical Leave
 - Inform your manager and your client (if you have any) immediately.
 - If you're off for more than a day and are on a medical leave, then it is mandatory to submit Doctors Prescription / Hospital Records & Invoice. We usually let client know about your health and also send them this evidence.
-- Doctor Prescription / Hospital Records should be in English. These are sent to clients. If they're not in english, then a notarised translation is required. 
+- Doctor Prescription / Hospital Records should be in English. These are sent to clients. If they're not in english, then a notarised translation is required.
 
 ### Maternity Leave:
 - You can take a leave off upto 18 months.
