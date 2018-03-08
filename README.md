@@ -54,11 +54,12 @@ Please use issues to ask questions.
   * [Management Team](/leadership/management/README.md)
 * [Legal](/legal/README.md)
   * For Customers and Clients
-    * [Non-Disclosure Agreement](https://www.docracy.com/9qx4o7x1m0/non-disclosure-agreement-hackerbay-inc?highlightComment=-1&startOnComments=false)
-    * [Software Development Contract](https://www.docracy.com/5rj5hdzqan/software-development-contract-hackerbay-software-private-limited?startOnComments=false)
+    * [Non-Disclosure Agreement](https://docs.google.com/document/d/1BmZb6k_Q1mn_uYKvZIexoBLrX-V_4J7B1RAc1gOrk1I/edit?usp=sharing)
+    * [Software Development Contract](https://docs.google.com/document/d/1qa4RLSCoMT3tvGU2fzkJ8D3V0IIApnwKRmy7UUzv-wY/edit?usp=sharing)
   * For Employees
-    * [Employment Offer Letter](https://www.docracy.com/0m79q9ql163/employment-offer-letter)
-    * [Promotion Letter](https://www.docracy.com/4py5b8esrs/employee-promotion-letter)
-    * [Company Property Agreement](https://www.docracy.com/0tlbum6n73x/hackerbay-inc-property-agreement)
-    * [Relieving Letter](https://www.docracy.com/0lviaxhk0zk/hackerbay-inc-relieving-letter)
+    * [Employment Offer Letter](https://docs.google.com/document/d/1kPyYOzqxu5ALOmAG0n6tVBpmV-J_iRG0Z6GnSGrrlbg/edit?usp=sharing)
+    * [Contractor Agreement](https://docs.google.com/document/d/1M3JaH3zqktE_GI0Sia9F7QLcSVqg-kAZFrTA7kS_8po/edit?usp=sharing)
+    * [Promotion Letter](https://docs.google.com/document/d/1gFT3feReitsK7VURLBmCOybbzAB_s1nfE49XX-RmHXY/edit?usp=sharing)
+    * [Company Property Agreement](https://docs.google.com/document/d/1-BwtLHhC57sq-7Ei5wmXZC5lZk4qf9b235B0SrCLB3I/edit?usp=sharing)
+    * [Relieving Letter](https://docs.google.com/document/d/1lcZajNK2AuJ7ejUST-D2wZPKsxc8fGeWhxT6AdBokpk/edit?usp=sharing)
 * [Credits](/credits/README.md)
