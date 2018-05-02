@@ -1,5 +1,6 @@
 # Onboarding for Engineers
 
+- [Read this first](/people-operations/onboarding/README.md)
 - Please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSfClAxu4MqpUxOWsHA8jSKvBVRVSJJMBR1HLb2rAh-B6QELJg/viewform) and give us your interview feedback. 
 - Sign up on GitHub, Bitbucket (if you don't have an account already) and send your username to your manager and he'll add you to the organisation.
 - Join #engineering channel on Slack.
