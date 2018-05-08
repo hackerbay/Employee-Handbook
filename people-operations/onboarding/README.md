@@ -4,6 +4,7 @@ This document is for all new employees.
 
 - Please fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSfClAxu4MqpUxOWsHA8jSKvBVRVSJJMBR1HLb2rAh-B6QELJg/viewform) and give us your interview feedback. 
 
+
 - If you haven't signed your offer letter already. Its a good idea to do it right now before proceeding further. If your offer letter is not counter-signed by someone in the HackerBay team. Let the person who interviewed you know immediately.
 
 - If you don't know who you report to, Ask someone you interviewed you immediately.
@@ -46,5 +47,7 @@ This document is for all new employees.
 - [For Admin](/admin/onboarding/README.md)
 - [For Sales](/sales/onboarding/README.md)
 - [For Marketing](/marketing/onboarding/README.md)
+
+- Important: If you leave the company before 12 months. We will not provide you with an experience and reliveing letter. Your employment with us will be invalid and you will no longer be able to refer us to your future employers. 
 
 If you have any questions. Please contact your manager.
