@@ -33,6 +33,7 @@ Please use issues to ask questions.
   * [Resignation](/people-operations/resignation/README.md)
 * Engineering
   * [Onboarding for Engineers](/engineering/onboarding/README.md)
+  * [Development Environment](/engineering/environment/README.md)
   * [Working with Trello](/engineering/trello/README.md)
   * If you're working with CloudBoost team: 
     * [Setting up CloudBoost](/engineering/cloudboost/setup/README.md)
