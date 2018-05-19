@@ -6,3 +6,7 @@
 - Use Chrome as primary browser. It makes devs lives simpler. 
 - [Add React Dev Tools to Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [Add ColorZilla to Chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
+- If you need icons, svg, png's for your project - [FlatIcon](https://www.flaticon.com/) is the best reesource out there. 
+- If you're looking for color matching , color combinations. Please check [Color Wheel by Adobe](https://color.adobe.com/)
+- If you're looking for design inspiration. Please check [Dribbble](https://dribbble.com/)
+- If you're looking for project templates. Please check [WrapBootstrap](https://wrapbootstrap.com/)
