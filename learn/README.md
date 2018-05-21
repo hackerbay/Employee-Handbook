@@ -39,3 +39,13 @@ Made to Stick (Book) https://books.google.co.in/books?id=OUgCHkxZTX4C&printsec=f
 How to start a startup (Video Course): https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1
 
 Blitzscaling (Video Course): https://www.youtube.com/watch?v=s3RrVmv5WwA
+
+
+# Angel Investing
+Seed Investor School (Video Course): https://investor.startupschool.org/
+
+# Value Investing
+
+Security Analysis (Book): https://books.google.co.in/books/about/Security_Analysis_6E.html?id=YYNlSBx-xrcC&printsec=frontcover&source=kp_read_button&redir_esc=y
+
+Intelligent Investor (Book): https://books.google.co.in/books?id=-NdcCSt8t_YC&printsec=frontcover&dq=intelligent+investor&hl=en&sa=X&ved=0ahUKEwjirKDv8pXbAhXIro8KHVaTB6QQ6AEIODAD#v=onepage&q=intelligent%20investor&f=false
