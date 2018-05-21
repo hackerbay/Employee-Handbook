@@ -1,5 +1,8 @@
 # Code Review and Practices
 
+## Before you begin
+- (IMPORTANT: JavaScript Best Practices)[https://www.slideshare.net/cheilmann/javascript-best-practices-1041724/25-Problem_Repetition_ofmodule_name_leads]
+
 ## General
 - If you're new to CloudBoost Code base. Ask your manager for a quick walk-through. Before you ask for this. Make sure CloudBoost is installed on your system and is running properly.
 - If you're new to codebase. Get your code reviewed everyday even when you're in the middle of the task.
