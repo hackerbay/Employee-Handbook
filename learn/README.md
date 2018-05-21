@@ -41,10 +41,10 @@ How to start a startup (Video Course): https://www.youtube.com/watch?v=CBYhVcO4W
 Blitzscaling (Video Course): https://www.youtube.com/watch?v=s3RrVmv5WwA
 
 
-# Angel Investing
+### Angel Investing
 Seed Investor School (Video Course): https://investor.startupschool.org/
 
-# Value Investing
+### Value Investing
 
 Security Analysis (Book): https://books.google.co.in/books/about/Security_Analysis_6E.html?id=YYNlSBx-xrcC&printsec=frontcover&source=kp_read_button&redir_esc=y
 
