@@ -6,6 +6,7 @@
 ## Few basics. 
 - `console.log` is a very bad idea. Never push this in. If you're using this for debugging - please stop doing that and use a standard debugger instead. 
 - Never push commented code in. Comments are fine, commented code is not. 
+- Always use `SVG` for icons because it scales really really well. Never use `PNG, GIF, JPEGS`. 
 
 ## General
 - If you're new to Code base. Ask your manager for a quick walk-through. Before you ask for this. Make sure Codebase and the project is installed on your system and is running properly.
