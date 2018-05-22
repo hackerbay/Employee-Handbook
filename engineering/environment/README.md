@@ -1,5 +1,6 @@
 # Local Development Environment
 
+- Use an Ubuntu machine. That's the best flavor of linux out there. We embrace open source and run open source in production, so its best to have your dev environment identical to production. If you're using Windows - switch to Ubuntu. MacOS is occasionally okay since its POSIX. We DON'T recommend using one because its overpriced and gives you exactly the same thing an Ubuntu machine would give you with third the cost. 
 - We use Visual Studio Code as our primary IDE. If you're using anything else, we HIGHLY recommend you to switch to Visual Studio Code. 
 - IMPORTANT: Learning about debuging in VS Code is important. It'll save you days of your life (trust us!). [Please check this short 8 min video out](https://www.youtube.com/watch?v=2oFKNL7vYV8)
 - IMPORTANT: [Please check this short video on Debugging in Chrome](https://www.youtube.com/watch?v=H0XScE08hy8). It's worth watching. 
