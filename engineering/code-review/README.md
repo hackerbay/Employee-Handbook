@@ -3,8 +3,12 @@
 ## Before you begin
 - [IMPORTANT: JavaScript Best Practices](https://www.slideshare.net/cheilmann/javascript-best-practices-1041724/25-Problem_Repetition_ofmodule_name_leads)
 
+## Few basics. 
+- `console.log` is a very bad idea. Never push this in. If you're using this for debugging - please stop doing that and use a standard debugger instead. 
+- Never push commented code in. Comments are fine, commented code is not. 
+
 ## General
-- If you're new to CloudBoost Code base. Ask your manager for a quick walk-through. Before you ask for this. Make sure CloudBoost is installed on your system and is running properly.
+- If you're new to Code base. Ask your manager for a quick walk-through. Before you ask for this. Make sure Codebase and the project is installed on your system and is running properly.
 - If you're new to codebase. Get your code reviewed everyday even when you're in the middle of the task.
 - We use Bitbucket for closed sourced repos and GitHub for open source repos.
 - Fork the repo you want to work on to your local account.
