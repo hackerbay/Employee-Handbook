@@ -2,7 +2,7 @@
 
 ### Corporate
 
-HackerBay, Inc. is a US C Corporation incorporated in Delaware. Our registered address in the United States is 16192 Coastal Highway, Lewes, DE, 19958, Country of Sussex.
+HackerBay, Inc. is a US C Corporation incorporated in Delaware. Our registered address in the United States is 16192 Coastal Highway, Lewes, DE, 19958, County of Sussex.
 
 Employer Identification Number for HackerBay Inc is 38-4042380
 
