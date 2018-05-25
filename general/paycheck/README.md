@@ -2,20 +2,14 @@
 
 
 - Your Salary is processed on 1st of month. If 1st is a global holiday (like New Year). Your salary will be processed on the next business day.
-
 - Please make sure we have correct bank details. There will be a delay or your salary will be bounced back if we don't.
-
 - We pay in local currency. If you wan't to be paid in USD. Send us your USD Bank details. 
-
 - We cannot pay in any other bank account except yours. (We cannot pay in your mom's or dad's account for example).
-
 - We need your National Tax ID to pay you. For example:
   - PAN in India.
   - SSN in United States
   - TIN in Nigeria
-
 - We always pay on time. Always.
-
 - If you don't see your pay in your account by 7th of the month. Please contact `admin` immediately.
 
 ## United States
