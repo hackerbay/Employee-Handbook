@@ -2,7 +2,7 @@
 
 ## How is Salary Calculated
 - You're paid per hour of work done. We cap it to 40 hrs/week or 8 hrs/day (Monday-Friday)
-- If you work more than 40 hours a week. You'll NOT be paid for those extra hours. We strongly encourage you to spend time not working and doing something else if this is the case. We want you to have a work-life balance. That's important. If you still want to work - spend it on your personal projects.
+- If you work more than 45 hours a week (That's our hard cap). You'll NOT be paid for those extra hours. We strongly encourage you to spend time not working and doing something else if this is the case. We want you to have a work-life balance. That's important. If you still want to work - spend it on your personal projects.
 - We recommend you work 8 hours/day and not more than that. We set a hard cap to 9 hours (if you're in the middle of the task, that needs to be done). Anything above those 9 hours will not be taken into account. We want you to have a work-life balance and we understand you're people too!
 - You cant fill in hours from one week to the next. i.e : You cant work 20 hours one week and work 60 next week. Weekly hours are capped at 40.
 - Important: Never clock idle time or add manual time on Hubstaff. We do regular strict compliance and audits every Monday. If we find idle activity in your account - You will not be paid for it + You will also be penalised for the number of hours you have idle time that week. For example : If you have 5 hours of idle time, You will not be paid for those 5 hours + 5 hours of regular work will be discounted from the salary. We take this very seriously. If you're here to rack up time. You shouldn't be working with us.
