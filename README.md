@@ -32,6 +32,7 @@ Please use issues to ask questions.
   * [Violation](/people-operations/violation/README.md)
   * [Resignation](/people-operations/resignation/README.md)
 * Engineering
+  * [FAQ for Interview Applicants](/engineering/applicants/faq/README.md)
   * [Onboarding for Engineers](/engineering/onboarding/README.md)
   * [Development Environment](/engineering/environment/README.md)
   * [Working with Trello](/engineering/trello/README.md)
