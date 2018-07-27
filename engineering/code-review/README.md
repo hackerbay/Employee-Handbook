@@ -26,6 +26,7 @@ When you're starting to write a new function think twice (No. thrice!, seriously
 - Is the same functionality is already implemented in another function, then use that instead of the new one.
 - Think twice about the function name. Do you get what the function does if you read the function name.
 - Write quick documentation before the function.
+
 ```
 FunctionName: One quick sentence of what this fucntion does.
 Parameters:
@@ -35,8 +36,10 @@ Parameters:
 Returns:
 What does this function returns, If this function is a promise. Then say what the it returns when the promise resolves and what it returns when the promise rejects.  
 ```
+
 - Class names should be a noun. Classes are something. Example: Student, CloudObject, etc. If you're wrting JavaScript, class names should be PascalCase  (The first letter of the class is upper case, the next subsequent word is also upper case). If you're writing code in any other language then follow the best practices of that language.
 - Write quick documentation before the Class.
+
 ```
 ClassName: One quick sentence of what this class does.
 ```
