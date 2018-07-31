@@ -48,6 +48,7 @@ Please use issues to ask questions.
   * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
   * [Working with clients](/engineering/consulting/clients/README.md)
   * [Interviewing Software Engineers](/engineering/interviewing/README.md)
+  * [Creating new projects](/engineering/new-projects/README.md)
 * Admin
   * [Onboarding for Admin](/admin/onboarding/README.md)
 * Marketing
