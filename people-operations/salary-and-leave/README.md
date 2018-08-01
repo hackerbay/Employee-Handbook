@@ -11,15 +11,7 @@
 ## Leave Policy
 
 - **In short paid leaves are 10% of the number of hours you worked. For example: If you've worked for 180 hours/month. You get 18 hours of paid leaves a month. We pay for those paid leaves into your account every month automatically.** 
-- You're entitled 1 day (8 hours) of paid leave for every 10 days  you work with us. You have 22 paid leaves a year. You can count them as sick leaves / vacation / festival / natural disaster / etc or however you want to work that out.
-- This is 1 leave every 10 work days. If you take a month and a half to work 10 days for example, you would still have 1 paid leave in month and a half.
-- These leaves can be accumulated for over 3 years and you can take days off together. For example: If you have 10 leaves accumulated, you can take 10 days off together.
-- They can be broken down. For example: You have 8 hours in 1 day leave. You can take 2 hours off and you will still have 6 more hours left.
-- You still need to apply for these. Read the document further to see how you apply for it.
-- A paid leave will not count for a "work day".
-- These leaves are mandatory. We will force you to take days off if you have too many of them accumulated and you also don't have an option to work on paid leaves and get paid twice. It's good to take days off work and keep the wheels off the ground.
-- In total you have 22 days (1 month of paid leaves - 22 days + 8 weekends) every single year.  
-- If you leave the company and still have leaves left. You will be paid in full for those.
+- An average month is about 160 work hours. so, you get about 16 hours of paid leaves / month. That's 2 days worth of paid leaves. 
 
 #### Examples
 
