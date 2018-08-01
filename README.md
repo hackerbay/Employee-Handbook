@@ -31,6 +31,7 @@ Please use issues to ask questions.
   * [Quarterly Feedback](/people-operations/feedback/README.md)
   * [Violation](/people-operations/violation/README.md)
   * [Resignation](/people-operations/resignation/README.md)
+  * [Writing Blogs](/people-operations/blogs/README.md)
 * Engineering
   * [FAQ for Interview Applicants](/engineering/applicants/faq/README.md)
   * [Onboarding for Engineers](/engineering/onboarding/README.md)
