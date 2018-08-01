@@ -20,6 +20,14 @@
 - In total you have 22 days (1 month of paid leaves - 22 days + 8 weekends) every single year.  
 - If you leave the company and still have leaves left. You will be paid in full for those.
 
+#### Examples
+
+Example 1: An intern works 20 hours/week. 80 hours a month (instead of working full time 160). It's not fair for us to pay him for 16 hours of paid leaves (10% of 160). Instead we pay him for 8 hours of paid leaves (10% of 80). 
+
+Example 2: An `admin` works for 10 hours a week. 40 hours/month. His paid leave will be 10% of his total hours in a month which would be equal to 4 hours. We don't want someone who works less to get more paid leave as someone who works full time. This would be fair to everyone.  
+
+Example 3: An Employee works 176 hours/month. He would get 17.6 hours of paid leaves (10% of 176) which is equal to more than 2 days of paid leaves. 
+
 ### Apply for leaves
 
 - You need to apply for a leave by filling the [Employee Leave Application Form](https://goo.gl/forms/CMBk4exneeCBk1jb2)
