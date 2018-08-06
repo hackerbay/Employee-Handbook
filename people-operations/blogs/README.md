@@ -8,6 +8,8 @@ Before you start writing, please discuss the topic and title of your blog with y
 
 You can also switch writing blogs to making a Video Course, Webinars, or whatever makes you tick. 
 
+If you're working on Blogs. [Here's an important guide](https://blog.hackerbay.io/checklist-for-publishing-a-story-to-medium-aaf811b68526)
+
 
 
 
