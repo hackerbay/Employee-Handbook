@@ -7,7 +7,7 @@
 
 ### Engineering
 
-[Here's how we review performance of engineers.](/engineering/performance-reivew/README.md)
+[Here's how we review performance of engineers.](/engineering/performance-review/README.md)
 
 ### Sales
 
