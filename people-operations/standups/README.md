@@ -10,8 +10,8 @@
 - You're required to update the #general channel on Slack twice everyday. When you start working and when you stop working for the day. 
 - When you start working tell us what you'll be doing for the day. 
 - When you end working for the day. Tell us what you've accomplished. 
-- It's is mandatory for everyone to checkin.  If you miss these, you lose a half of your salary for the day.
-- Entire company checksin on the same channel together to make sure everyone is on the right page. People from Sales, Marketing, Admin, Engineering will be here and you will know updates from everyone in the team.
+- It mandatory for everyone to checkin.  If you miss these, you lose a half of your salary for the day.
+- Entire company checks in on the same channel together to make sure everyone is on the right page. People from Sales, Marketing, Admin, Engineering will be here and you will know updates from everyone in the team.
 - You can checkin at your local time whenever you start working and update us on #general and checkout at your local time whenever you stop working and update us on #general.  
 
 
