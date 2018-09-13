@@ -14,3 +14,4 @@ Here are few things we really want to do in the next few years. Since we're boot
 - Club & Gym memberships : We care for your health.
 - Sponsor an international company trip where all of us can meet. 
 - 4 day work weeks instead of 5. 
+- Pay everyone well so they can live in any city in the world. 
