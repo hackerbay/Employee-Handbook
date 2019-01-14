@@ -13,9 +13,9 @@
 
 ## If you're a manager. 
 
-- Have one-on-one's with each of your direct report BEFORE you submit the feedback form. 
-
 - Fill this form: [https://docs.google.com/forms/d/e/1FAIpQLSdDu3CGdcY229yM_oT0CDGlMxp_Nf_dxzeza8OoyeltSZb-Ow/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdDu3CGdcY229yM_oT0CDGlMxp_Nf_dxzeza8OoyeltSZb-Ow/viewform)
+
+- Have one-on-one's with each of your direct report BEFORE you submit the next feedback form. 
 
 - Fill this form for EACH of your direct report: [https://docs.google.com/forms/d/e/1FAIpQLSer6yMfXNN72FN_hQaBR9JJ6W7tzrcxWkQbTAhLYQ1j8ZL4_g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSer6yMfXNN72FN_hQaBR9JJ6W7tzrcxWkQbTAhLYQ1j8ZL4_g/viewform)
 
