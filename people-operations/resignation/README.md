@@ -13,6 +13,7 @@
    - Hold your salary
    - Will not respond OR give you a bad review to any requests with respect to your behavior and skill which we recieve from next place you plan to work.
    - Contact the next place you plan to work and inform them about your behaviour.
+   - Contact agencies who usually do background checks and inform them about your behaviour. 
 
 #### When you leave
 
