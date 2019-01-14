@@ -23,24 +23,25 @@
 
 For Managers: 
 
-The key to a good one-on-one meeting is the understanding that it is the direct report meeting rather than the manager’s meeting. During the meeting, since it’s the employee’s meeting, the manager should do 10 percent of the talking and 90 percent of the listening.
+- The key to a good one-on-one meeting is the understanding that it is the direct report meeting rather than the manager’s meeting. During the meeting, since it’s the employee’s meeting, the manager should do 10 percent of the talking and 90 percent of the listening. 
 
-IMPORTANT: Have your direct report set an agenda and send it to you before the meeting.
+- IMPORTANT: Have your direct report set an agenda and send it to you before the meeting. 
 
-Talk about anything you like. This can be work or non-work related.
+- Talk about anything you like. This can be work or non-work related. 
 
-You may use these questions to help open up your direct report a bit and get proper feedback.
+- You may use these questions to help open up your direct report a bit and get proper feedback.
 
-If we could improve in any way, how would we do it?
-What’s the number-one problem with our organization? Why?
-What’s not fun about working here?
-Who is really kicking ass in the company?
-Whom do you admire?
-If you were me, what changes would you make?
-What don’t you like about the product?
-What’s the biggest opportunity that we’re missing out on?
-What are we not doing that we should be doing?
-Are you happy working here?
+   - If we could improve in any way, how would we do it?
+   - What’s the number-one problem with our organization? Why?
+   - What’s not fun about working here?
+   - Who is really kicking ass in the company?
+   - Whom do you admire?
+   - If you were me, what changes would you make?
+   - What don’t you like about the product?
+   - What’s the biggest opportunity that we’re missing out on?
+   - What are we not doing that we should be doing?
+   - Are you happy working here?
+
 
 ### Product Manager Checkins
 
