@@ -22,8 +22,6 @@
 
 **Transparent Payroll:** You know how much everyone makes including the founder. We have transparency not just in pay, but everywhere else too! We want to be as transparent as possible.  
 
-**We've never fired anyone:** We believe in coaching people, not firing them. We're a family and you never fire your family off. You coach them.  When we hire you. You're safe with us and you're employed for life, unless you make mistakes which are unforgiveable (For example: rarely work for long periods of time, sexually harass someone, etc). You can still resign and leave the company at any time you like, if you want. We prefer that you help us figure out the problems in the company and let's weed them out together! Stick with us for long and we promise it'll all be worth your time.
-
 **Learn on the job:** When we started this company, we had no idea how buisness world works. All we had was a vision on where we want to be, determination to learn, little patience, and a lot of perseverance. We learnt on the job and we expect you to do too. There will be many instances where you will have no idea how to do something. In that case - google is your best friend. Google things out. You'll be surprised on how much you can learn online. We've also cataloged few resources for you to learn on the job and have listed them out [here](/learn/README.md)
 
 **Fair Performace Review:** If you deserve a promotion. You will be promoted. Check [this document](/people-operations/performance-reivew/README.md) on things that we expect from you if we consider you to be promoted.
@@ -34,7 +32,7 @@
 
 **Negative is 1-1** Give negative feedback in the smallest setting possible, one-on-one video calls are preferred.
 
-**Say thanks** Recognize the people that helped you publicly, for example in our #thanks chat channel.
+**Say thanks** Recognize the people that helped you publicly.
 
 **Give feedback effectively** Giving feedback is challenging, it's important to deliver it effectively. When providing feedback always make it about the work itself, focus on the business impact and not the person. Make sure to provide at least one clear and recent example. If a person is going through a hard time in their personal life, then take that into account. For managers, it's important to realize that employees react to a negative incident with their managers [six times more strongly](https://hbr.org/2013/03/the-delicate-art-of-giving-fee) than they do to a positive one. Keeping that in mind, when an error is so inconsequential that the value gained from providing criticism is low, it might make sense to keep that feedback to yourself. In the situations where negative feedback must be given, focus on the purpose for that feedback: to improve the employee’s performance going forward. Give recognition generously, in the open and often to generate more engagement from your team.
 
@@ -74,8 +72,6 @@ for anticipating and solving problems. As an owner you are responsible for overc
 **Boring solutions**: Use the most simple and boring solution for a problem. You can always make it more complex later if that is needed. The speed of innovation for our organization and product is constrained by the total complexity we have added so far, so every little reduction in complexity helps. Don't pick an interesting technology just to make your work more fun, using code that is popular will ensure many bugs are already solved and its familiarity makes it easier for others to contribute.
 
 **Be respectful of other's time** Consider the time investment you are asking others to make with meetings and a permission process. Try to avoid meetings and if one is needed make attendance optional by making the invite optional, by having a clear agenda linked from the invite, and by documenting the outcome. Instead of having people ask permission trust their judgment and offer a consultation process if they have questions.
-
-**Spend company money like it's your own** Every dollar we spend will have to be earned back, be as frugal with company money as you are with your own.
 
 **Freedom** You should have clear objectives and the freedom to work on them as you see fit.
 
