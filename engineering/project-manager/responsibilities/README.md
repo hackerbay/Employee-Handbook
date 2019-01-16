@@ -1,4 +1,19 @@
-# Responsibilities of a Project Manager - Good Manager vs a Bad Manager
+# Responsibilities of a Project Manager
+
+### Responsibilities
+
+- Communicate product vision and mission with everyone in your team. 
+- Have daily / bi-weekly / weekly standups with your team. 
+- Make sure everyone working in your team enjoys being there, learns something new every week, and is dedicated to the product vision and mission. 
+- Create new tasks / cards and make sure those are described properly and clearly. 
+- Update trello board, assign tasks / cards to members, set deadlines, and make sure people follow through on those deadlines. 
+- Do customer support / talk to customers often. 
+- Do competitor analysis and developes a strategy to make the product #1 in the market. 
+- Makes sure codebase is well maintained, and documented, with written tests. 
+- Make sure you hit quarterly OKR's. 
+- Make sure the product has the best UX and Feature set in the world. 
+
+### Good Manager vs Bad Manager
 
 Good Managers care deeply how they show up with their teams every day, want success for all (not just themselves) and approach the leadership of men and women as a discipline to be improved over time. Good Managers recognize that perfection is unattainable but that progress is always within reach. The below attempts to contrast the stark differences separating how Good Managers and Bad Managers approach oversight/guidance of their teams.
 
