@@ -52,6 +52,7 @@ Please use issues to ask questions.
   * [Working with clients](/engineering/consulting/clients/README.md)
   * [Interviewing Software Engineers](/engineering/interviewing/README.md)
   * [Creating new projects](/engineering/new-project/README.md)
+  * [Responsibilities of a Project Manager](/engineering/project-manager/responsibilities/README.md)
 * Admin
   * [Onboarding for Admin](/admin/onboarding/README.md)
 * Marketing
