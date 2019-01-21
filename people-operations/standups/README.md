@@ -15,6 +15,7 @@
 - It's mandatory to attend. 
 - They happen daily / bi-weekly / weekly. Your manager will decide how often and when this will happen. 
 - Your manager will give you a zoom link to join. If you don't have one. Talk to your manager. 
+- Your maanger will ping you on you team's general channel 5 mins before the standup time. If you don't see this ping, conatct your manager. If you don't hear from him in less than a minute, escalate to @nawazdhandala immediately. 
 
 
 ### One-on-one's
