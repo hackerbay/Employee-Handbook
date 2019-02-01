@@ -13,7 +13,7 @@ Yes. We don't hire people who want to work part time.
 You'll be paid in USD. Contact soemone who sent you an interview invite to know how much we'd pay. You'll be paid per hour you work. 
 
 ### Do we have paid leaves? 
-Yes. You have 2 paid leaves a month. 
+Yes. You have 2 paid leaves a month. Please note that your leave days are not accumulated at HackerBay.
 
 ### How many hours/week will I be working?  
 40
