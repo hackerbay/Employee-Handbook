@@ -12,6 +12,7 @@
 
 - **In short paid leaves are 10% of the number of hours you worked. For example: If you've worked for 180 hours/month. You get 18 hours of paid leaves a month. We pay for those paid leaves into your account every month automatically.** 
 - An average month is about 160 work hours. so, you get about 16 hours of paid leaves / month. That's 2 days worth of paid leaves. 
+- Please note that your leave days are not accumulated and any leave days exceeding 2 days in any month will be unpaid.
 
 #### Examples
 
