@@ -24,3 +24,7 @@ If you intentionally submit fake documentation of any kind.
 **Example 4:**
 
 If you miss company-wide monthly standup. 
+
+## Report
+
+You can report violation against anyone by filling up the form here: https://bit.ly/HackerBayViolation 
