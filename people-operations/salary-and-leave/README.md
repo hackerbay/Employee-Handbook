@@ -25,7 +25,7 @@ Example 3: An Employee works 176 hours/month. He would get 17.6 hours of paid le
 
 ### Apply for leaves
 
-- You need to apply for a leave by filling the [Employee Leave Application Form](https://goo.gl/forms/CMBk4exneeCBk1jb2)
+- You need to apply for a leave by filling the **Leave Application Form** which you can find [here](https://hackerbaycompany.slack.com/files/U033XTX4D/FGPQ8C533/Forms)
 - Your manager would let you know if your leave is approved.
 - **Emergency:** We understand this sometimes happens. Fill the form as soon as you can.
 
