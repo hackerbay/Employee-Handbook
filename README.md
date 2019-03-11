@@ -14,7 +14,7 @@ Please use issues to ask questions.
   * [Work Ethic](/general/work-ethic/README.md)
   * [Anti-Harassment Policy](/general/anti-harassment/README.md)
   * [Paycheck](/general/paycheck/README.md)
-  * [Forms](/general/forms/README.md)
+  * [Employee Portal](https://employee.hackerbay.io)
 * [Objective and Key Results (OKR)](/OKR/README.md)
   * [Company OKR](/OKR/company/README.md)
 * [Learning Resources](/learn/README.md)
