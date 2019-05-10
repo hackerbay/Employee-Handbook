@@ -20,7 +20,7 @@ Please use issues to ask questions.
 * [Learning Resources](/learn/README.md)
 * People Operations
   * [Onboarding](/people-operations/onboarding/README.md)
-  * [Setting up Emails](/people-operations/email/README.md)
+  * [Setting up Emails](/people-operations/onboarding/email/README.md)
   * [Standups](/people-operations/standups/README.md)
   * [Working with Hubstaff](/people-operations/hubstaff/README.md)
   * [Salary and Leave Policy](/people-operations/salary-and-leave/README.md)
