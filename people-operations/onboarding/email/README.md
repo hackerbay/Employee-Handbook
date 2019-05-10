@@ -61,6 +61,6 @@ Only Calendar: CalDAV-Sync ($2.89)
 ### Few Notes
 
 - Mail is sent from the company private encrypted mail server. 
-- We own the IP address mail is sent from. **Please do not spam.** It should result in everyone's email being sent to junk.
+- We own the IP address mail is sent from. **Please do not spam.** It will result in everyone's email being sent to junk.
 - Always use this email for work related communication (for external parties like customers), Always use slack to communicate internally. 
 
