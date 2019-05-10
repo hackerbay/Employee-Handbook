@@ -14,9 +14,9 @@ Use Webmail at https://mail.hackerbay.io/mail, check your username / password he
 #### Settings
 
 - Protocol: IMAP
-- Username: <your email address> 
-- Email: <your email address> 
-- Password: <your password> 
+- Username: Your complete email address.
+- Email: Your complete email address.
+- Password: Your Password
 
 - Incoming Server: mail.hackerbay.io
 - Incoming Server Port: 993
@@ -52,11 +52,11 @@ Only Calendar: CalDAV-Sync ($2.89)
 
 #### Use the following settings:
 
-- Account Type 	CardDAV or CalDAV
-- Server Name 	mail.hackerbay.io
-- Use SSL 	Yes
-- Username 	Your complete email address.
-- Password 	Your mail password.
+- Account Type: CardDAV or CalDAV
+- Server Name: 	mail.hackerbay.io
+- Use SSL:  	Yes
+- Username: 	Your complete email address.
+- Password:	Your mail password.
 
 ### Few Notes
 
