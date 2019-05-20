@@ -22,7 +22,7 @@
 
 **Transparent Payroll:** You know how much everyone makes including the founder. We have transparency not just in pay, but everywhere else too! We want to be as transparent as possible.  
 
-**Learn on the job:** When we started this company, we had no idea how buisness world works. All we had was a vision on where we want to be, determination to learn, little patience, and a lot of perseverance. We learnt on the job and we expect you to do too. There will be many instances where you will have no idea how to do something. In that case - google is your best friend. Google things out. You'll be surprised on how much you can learn online. We've also cataloged few resources for you to learn on the job and have listed them out [here](/learn/README.md)
+**Learn on the job:** When we started this company, we had no idea how business world works. All we had was a vision on where we want to be, determination to learn, little patience, and a lot of perseverance. We learnt on the job and we expect you to do too. There will be many instances where you will have no idea how to do something. In that case - google is your best friend. Google things out. You'll be surprised on how much you can learn online. We've also cataloged few resources for you to learn on the job and have listed them out [here](/learn/README.md)
 
 **Fair Performace Review:** If you deserve a promotion. You will be promoted. Check [this document](/people-operations/performance-reivew/README.md) on things that we expect from you if we consider you to be promoted.
 
