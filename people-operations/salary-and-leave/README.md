@@ -25,9 +25,9 @@ Example 3: An Employee works 176 hours/month. He would get 17.6 hours of paid le
 
 ### Apply for leaves
 
-- You need to apply for a leave by filling the **Leave Application Form** which you can find [here](https://hackerbaycompany.slack.com/files/U033XTX4D/FGPQ8C533/Forms)
+- You need to apply for a leave by filling the **Leave Application Form** which you can find [here](https://hackerbaycompany.slack.com/files/U033XTX4D/FGPQ8C533/Forms). You should fill this form **atleast 3 working days in advance.**
 - Your manager would let you know if your leave is approved.
-- **Emergency:** We understand this sometimes happens. Fill the form as soon as you can.
+- **Emergency:** We understand this sometimes happens. Fill the form on the same day of the emergency. You can claim emergency leave twice / yr and we require evidence to consider it. If you claim emergency leave without evidence, a violation will be reported against you. 
 
 #### Medical Leave
 - Inform your manager and your client (if you have any) immediately.
