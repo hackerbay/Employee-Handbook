@@ -61,8 +61,6 @@ You're always welcome to dive into more details on any specfic page if you like.
   * [Interviewing Software Engineers](/engineering/interviewing/README.md)
   * [Creating new projects](/engineering/new-project/README.md)
   * [Responsibilities of a Project Manager](/engineering/project-manager/responsibilities/README.md)
-* Admin
-  * [Onboarding for Admin](/admin/onboarding/README.md)
 * Marketing
   * [Onboarding for Marketing](/marketing/onboarding/README.md)
 * Sales
