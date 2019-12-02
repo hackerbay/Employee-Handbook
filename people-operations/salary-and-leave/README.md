@@ -39,21 +39,12 @@ Example 3: An Employee works 176 hours/month. He would get 17.6 hours of paid le
 - When want to be back, let us know and you'll be offered the same exact role and compensation you were on before you left.
 
 ## Notes
-
 - When you're on leave update your Slack Status accordingly. This will help us not to call you when you're away and it also helps everyone in the team know you're sick or vacationing.
 
 ## Standups
-If you're not present at Standups, you will lose half of your pay-check for a day. Its important that you attend these. It happens Mon-Fri. We officially have weekends off.  Again, your salary is calibirated for 22 work days a month and not 30. So, you technically would lose (1/22) x 0.5 of your pay-check. For more information on this, please check the [Standup document](/people-operations/standups/README.md).
+If you do not fll the standup form on Employee Dashboard, you will lose half of your pay-check for a day. 
 
 ## Office and Work Hours
 
 - Office is optional. We don't have an office. Ideally, we can fund a co-work near you if you want to work there, but most people chose to work from their home and save money and time commuting.
 - We don't really care when you work. All we want is to get work done. If you're a night owl, working at night is okay. Most of us work during the day, so if you're new to the team, you'll run into issues quite often. We urge you to work during the day so you can talk to most of us when that happens.
-
-## EQUAL OPPORTUNITY EMPLOYER
-
-HackerBay, Inc. is an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression.
-
-## Fly Weeks
-
-If you or your team wants to work from any other country to explore that country while you work. We completely support it. Infact, this is one of the benefits of working remote. Few locations we recommend which are great to do this : Thailand, Nepal, Columbia, Ecuador, A lot of Africa, Eastern Europe and more.  Most of these places are cheaper than India to be in. For more information on this, please check the [Travel document](/people-operations/travel/README.md).
