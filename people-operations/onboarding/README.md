@@ -25,33 +25,7 @@ This document is for all new employees.
 
 - Sign up to [Hubstaff](https://hubstaff.com). Select a FREE plan, create a new organisation / project called 'hackerbay'. Send your username and password (yes, we need your password here). Send the credentials to legal@hackerbay.io. Since this is a remote job, like any other remote company we use Hubstaff to track time.
 
-- [Values](/general/values/README.md)
-- [General Guidelines](/general/guidelines/README.md)
-- [Basic Etiquette](/general/basic-etiquette/README.md)
-- [Objective and Key Results (OKR)](/OKR/README.md)
-  - [Company OKR](/OKR/company/README.md)
-- [Learning Resources](/learn/README.md)
-- [Working with Hubstaff](/people-operations/hubstaff/README.md)
-- [Salary and Leave Policy](/people-operations/salary-and-leave/README.md)
-- [Salary Slabs](/people-operations/salary/README.md)
-- [Standups](/people-operations/standups/README.md)
-- [Salary and Leave Policy](/people-operations/salary-and-leave/README.md)
-- [Salary Slabs](/people-operations/salary/README.md)
-- [Performance Review](/people-operations/performance-review/README.md)
-- [Underperformace](/people-operations/underperformace/README.md)
-- [Travel](/people-operations/travel/README.md)
-- [Visa](/people-operations/visa/README.md)
-- [Company Equipment](/people-operations/company-equipment/README.md)
-- [Healthcare](/people-operations/healthcare/README.md)
-- [Quarterly Feedback](/people-operations/feedback/README.md)
-- [Violation](/people-operations/violation/README.md)
-- [Resignation](/people-operations/resignation/README.md)
-- [Life at HackerBay](https://blog.cloudboost.io/life-at-cloudboost-a8f6b80dcdfe)
-- [For Engineers](/engineering/onboarding/README.md)
-- [For Admin](/admin/onboarding/README.md)
-- [For Sales](/sales/onboarding/README.md)
-- [For Marketing](/marketing/onboarding/README.md)
 
-- Important: If you leave the company before 12 months. We will not provide you with an experience and reliveing letter. Your employment with us will be invalid and you will no longer be able to refer us to your future employers. 
+- **Important:** If you leave the company before 12 months. We will not provide you with an experience and reliveing letter. Your employment with us will be invalid and you will no longer be able to refer us to your future employers. 
 
 If you have any questions. Please contact your manager.
