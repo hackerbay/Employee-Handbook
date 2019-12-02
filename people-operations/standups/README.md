@@ -1,13 +1,8 @@
 # Standups and Meetings
 
-### Daily Checkins
+### Daily Standups
 
-- Post your standup updates to **Daily Standup Form** which you can find [here](https://hackerbaycompany.slack.com/files/U033XTX4D/FGPQ8C533/Forms). These will be recorded. Slack notifies #general channel if you submit the form.
-- You’re required to submit the update every single day. Weekends are optional.
-- Please make sure your updates are detailed. Spend 5 mins doing it. 5 mins/day - that’s all you spend. You focus all on your work, and you can have calls with anyone in the team - all async.
-- It mandatory for everyone to checkin.  If you miss these, you lose a half of your salary for the day.
-- Entire company checks in on the same channel together to make sure everyone is on the right page. People from Sales, Marketing, Admin, Engineering will be here and you will know updates from everyone in the team.
-- You can submit the form at your local time whenever you are done with your day.  
+- Fill the standup forms everyday. It's on your Employee Dashobard. 
 
 ### Teamwide Checkins
 
