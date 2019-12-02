@@ -1,6 +1,9 @@
 # Employee Stock Options 
 
+
+
 - This is your chance to literally own a piece of the company.
+- You can see how many have been assigned to you on your Employee Dashobard. 
 - We believe people who work in the company everyday should be worthy of the outcome of the company.
 - SO will be [vested](https://www.investopedia.com/terms/v/vesting.asp). You're eligible to exercise it every single month you work with us. They will be proposional to number of hours you've worked with us. 
 - You can sell the exercised stock in the event of liquidity. For ex : If the company IPO's in the public market or in the event of Merger or Acquisition.
