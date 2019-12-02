@@ -1,6 +1,10 @@
 # Work Ethic
 
-Written by: @nawazdhandala
+## TL;DR
+
+Work is literally worship. It literally puts food on the table for your family, and pays the bills. When you commit to somehting, do it! Few things like, not showing up on standup without letting your manager know, or not reporting to a client at a scheduled time without letting him know in advance will not be tolerated.
+
+## Introduction
 
 When we started the company in 2015. We had a call scheduled with a New York based client. I  missed the call because it accidentally did not show up on my calendar. From that moment on, he refused to do business with us because I did not respect his time, and I learnt my lesson of being on time, all the time.
 
