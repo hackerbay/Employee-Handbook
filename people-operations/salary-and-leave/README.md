@@ -34,6 +34,11 @@ Example 3: An Employee works 176 hours/month. He would get 17.6 hours of paid le
 - If you're off for more than a day and are on a medical leave, then it is mandatory to submit Doctors Prescription / Hospital Records & Invoice. We usually let client know about your health and also send them this evidence.
 - Doctor Prescription / Hospital Records should be in English. These are sent to clients. If they're not in english, then a notarised translation is required.
 
+
+### Partial Leaves
+
+If you’re working part time any day then fill up a leave form. There’s now a way to mark a “partial leave”. Make sure you submit a partial leave atleast  1 day in advance and have it approved by me. You can see the approval status on your dashboard. If you don’t do this then the bot which computes your salary will automatically register a violation and deducts your salary accordingly in this case. Make sure you also report to the client if you’re working with the client. If you submit the form on the same day. It’ll not be considered and will not be approved. 
+
 ### Maternity Leave:
 - You can take a leave off upto 18 months.
 - When want to be back, let us know and you'll be offered the same exact role and compensation you were on before you left.
