@@ -5,9 +5,9 @@ The HackerBay Employee Handbook is the central repository for how we run the com
 
 
 ### TL;DR: 
-Most pages will have "Too long; didn't read" which will have the summary of the page. 
+If pages are long to read. They will have "Too long; didn't read" which will have the summary of the page. 
 This will make it easier and faster for you to read the handbook. 
-You're always welcome to dive into more details on any specfic page if you like." 
+You're always welcome to dive into more details on any specfic page if you like.
 
 
 ### Contents
@@ -73,4 +73,6 @@ You're always welcome to dive into more details on any specfic page if you like.
 * Leadership
   * [Board of Advisors](https://hackerbaycompany.slack.com/files/U033XTX4D/F5AGZ5W7J/Board_of_Advisors)
   * [Management Team](/leadership/management/README.md)
+* [Legal](/legal/README.md)
+  * [Intellectual Property] (legal/intellectual-property/README.md)
 * [Credits](/credits/README.md)
