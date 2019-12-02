@@ -43,7 +43,6 @@ You're always welcome to dive into more details on any specfic page if you like.
   * [Resignation](/people-operations/resignation/README.md)
   * [Writing Blogs](/people-operations/blogs/README.md)
 * Engineering
-  * [FAQ for Interview Applicants](/engineering/applicants/faq/README.md)
   * [Onboarding for Engineers](/engineering/onboarding/README.md)
   * [Development Environment](/engineering/environment/README.md)
   * [Working with Trello](/engineering/trello/README.md)
@@ -73,4 +72,7 @@ You're always welcome to dive into more details on any specfic page if you like.
   * [Management Team](/leadership/management/README.md)
 * [Legal](/legal/README.md)
   * [Intellectual Property](/legal/intellectual-property/README.md)
+* Careers
+  * Want to work with us? Please check [our Intervew Process and FAQ](https://github.com/hackerbay/interview)
 * [Credits](/credits/README.md)
+
