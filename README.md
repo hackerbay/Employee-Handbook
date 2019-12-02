@@ -74,5 +74,5 @@ You're always welcome to dive into more details on any specfic page if you like.
   * [Board of Advisors](https://hackerbaycompany.slack.com/files/U033XTX4D/F5AGZ5W7J/Board_of_Advisors)
   * [Management Team](/leadership/management/README.md)
 * [Legal](/legal/README.md)
-  * [Intellectual Property] (legal/intellectual-property/README.md)
+  * [Intellectual Property](/legal/intellectual-property/README.md)
 * [Credits](/credits/README.md)
