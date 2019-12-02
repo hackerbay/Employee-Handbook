@@ -1,8 +1,8 @@
 # Violation
 
 - Violation is registered against you if you do not follow policy and rules listed in this handbook.
-- When we raise a violation against you. You'll get a Slack Notification from the slackbot.
-- Violation is a very serious. Few of these will get you fired from the company.
+- You can see your violations on Employee Dashobard. 
+- Violation is a very serious. A lot of these will get you fired from the company.
 - If you've violated the rule / policy. You'll get a very serious warning from your manager and the management.
 - If you violate the policy / rule that you have violated in the past (in the same year). You'll be fired effective immediately.
 - Few critical offences such as [Harassment](/general/anti-harassment/README.md) will get you fired immediately. We will not register a violation in this case. There's no second chance here.
@@ -27,4 +27,4 @@ If you miss company-wide monthly standup.
 
 ## Report
 
-You can report violation against anyone by filling up **Violation Form** which you can find [here](https://hackerbaycompany.slack.com/files/U033XTX4D/FGPQ8C533/Forms)
+You can report violation against anyone by filling up **Violation Form** which you an find in your Employee Dashboard. 
