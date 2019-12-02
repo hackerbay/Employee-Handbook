@@ -46,13 +46,6 @@ You're always welcome to dive into more details on any specfic page if you like.
   * [Onboarding for Engineers](/engineering/onboarding/README.md)
   * [Development Environment](/engineering/environment/README.md)
   * [Working with Trello](/engineering/trello/README.md)
-  * If you're working with CloudBoost team: 
-    * [Setting up CloudBoost](/engineering/cloudboost/setup/README.md)
-  * If you're working with Flow EP team: 
-    * [Setting up CloudBoost](/engineering/cloudboost/setup/README.md) - Yes, you need to Setup CloudBoost first. 
-    * [Setting up Flow](/engineering/flow/setup/README.md)
-  * If you're working with Fyipe team 
-    * [Setting up Fyipe](/engineering/fyipe/setup/README.md)
   * [Code Review and Practices](/engineering/code-review/README.md)
   * [Performance Review for Engineers](/engineering/performance-review/README.md)
   * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
