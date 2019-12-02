@@ -1,5 +1,15 @@
 # Anti-Harassment Policy
 
+## TL;DR
+
+If you: 
+
+- Sexually Harass
+- Discrimination
+- Bullying / Workplace Violence
+
+You'll be fired immediately. We'll also report to your local law enforcement if the issue is serious. Please send an email to antiharassment@hackerbay.io if you're the victim. 
+
 ## Introduction
 
 Everyone at HackerBay has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call and written communication such as email or shared documents, with exception of team summits, attending conferences together and local team meetups. No matter what the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Should you become aware or witness any form of harassment or behavior that violates this policy or our [company values](/values/README.md), please report the incident directly to People Operations Generalist immediately for thorough investigation.
