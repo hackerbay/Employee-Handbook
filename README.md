@@ -21,7 +21,7 @@ You're always welcome to dive into more details on any specfic page if you like.
   * [Work Ethic](/general/work-ethic/README.md)
   * [Anti-Harassment Policy](/general/anti-harassment/README.md)
   * [Paycheck](/general/paycheck/README.md)
-  * [Employee Portal](https://employee.hackerbay.io)
+  * [Internal Employee Dashobard](https://employee.hackerbay.io) (External Link)
 * [Objective and Key Results (OKR)](/OKR/README.md)
   * [Company OKR](/OKR/company/README.md)
 * [Learning Resources](/learn/README.md)
