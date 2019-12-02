@@ -4,7 +4,7 @@
 Nawaz Dhandala
 Twitter: @nawazdhandala
 LinkedIn: https://www.linkedin.com/in/nawazdhandala/
-Email: nawaz@hackerbay.io
+Email: nawazdhandala@hackerbay.io
 
 ### Board
 
