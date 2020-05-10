@@ -22,7 +22,7 @@ You will be rated 0-10 on each of these skills. If you're rated >=7 on all of th
 - Do I understand every piece of the project? Including pieces that other developers are working on / built.
 - Do I talk to customers, understand their feature requests, and solidify their feature requests into the product?
 - Do I track important product metrics and KPI's.
-- Do I have experience in manging 2-3 people. How well do I manage people?
+- Do I have experience in managing 2-3 people. How well do I manage people?
 - Do I suggest important features to make the product successful?
 - Do you have a vision of the product?
 - Did you do more than what was expected of you?

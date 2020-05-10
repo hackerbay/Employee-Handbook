@@ -43,7 +43,7 @@ Subjecting, or threats of subjecting, a team member to unwelcome sexual attentio
 
 Creating displays, communications, or publications including content of a sexually offensive nature.
 
-Purposely misgendering people, consistently referring to someone as 'he' after repeated requests to call someone a 'she' or vice versa.
+Purposely mis-gendering people, consistently referring to someone as 'he' after repeated requests to call someone a 'she' or vice versa.
 
 
 ## Discrimination

@@ -7,7 +7,7 @@ The HackerBay Employee Handbook is the central repository for how we run the com
 ### TL;DR: 
 If pages are long to read. They will have "Too long; didn't read" which will have the summary of the page. 
 This will make it easier and faster for you to read the handbook. 
-You're always welcome to dive into more details on any specfic page if you like.
+You're always welcome to dive into more details on any specific page if you like.
 
 
 ### Contents
@@ -20,7 +20,7 @@ You're always welcome to dive into more details on any specfic page if you like.
   * [Work Ethic](/general/work-ethic/README.md)
   * [Anti-Harassment Policy](/general/anti-harassment/README.md)
   * [Paycheck](/general/paycheck/README.md)
-  * [Internal Employee Dashobard](https://employee.hackerbay.io) (External Link)
+  * [Internal Employee Dashboard](https://employee.hackerbay.io) (External Link)
 * [Objective and Key Results (OKR)](/OKR/README.md)
   * [Company OKR](/OKR/company/README.md)
 * [Learning Resources](/learn/README.md)
@@ -60,11 +60,11 @@ You're always welcome to dive into more details on any specfic page if you like.
   * [Board Meetings](/finance/board-meetings/README.md)
   * [Stock Options](/finance/stock-options/README.md)
 * Leadership
-  * [Board of Advisors](https://hackerbaycompany.slack.com/files/U033XTX4D/F5AGZ5W7J/Board_of_Advisors) (Exernal Link to Internal Team Page) 
+  * [Board of Advisors](https://hackerbaycompany.slack.com/files/U033XTX4D/F5AGZ5W7J/Board_of_Advisors) (External Link to Internal Team Page) 
   * [Management Team](/leadership/management/README.md)
 * [Legal](/legal/README.md)
   * [Intellectual Property](/legal/intellectual-property/README.md)
 * Careers
-  * Want to work with us? Please check [our Intervew Process and FAQ](https://github.com/hackerbay/interview)
+  * Want to work with us? Please check [our Interview Process and FAQ](https://github.com/hackerbay/interview)
 * [Credits](/credits/README.md)
 

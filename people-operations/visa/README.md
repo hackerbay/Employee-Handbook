@@ -6,7 +6,7 @@ In some cases when traveling to a conference, summit, or when you're vacationing
 
 Always **check the website of the Embassy of the Country you want to visit** located in your home country. They will have the most updated information on whether or not you need a visa and what is needed for your application.
 
-Please fill out this **Visa Form** which you can find [here](https://hackerbaycompany.slack.com/files/U033XTX4D/FGPQ8C533/Forms). You should recieve support letters on your email in 2 business days from People-Ops. After you recieve them, please check the letter for accuracy.
+Please fill out this **Visa Form** which you can find [here](https://hackerbaycompany.slack.com/files/U033XTX4D/FGPQ8C533/Forms). You should receive support letters on your email in 2 business days from People-Ops. After you receive them, please check the letter for accuracy.
 
 #### Tips & Tricks for visa arrangements
 

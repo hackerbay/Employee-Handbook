@@ -25,7 +25,7 @@ Example 3: An Employee works 176 hours/month. He would get 17.6 hours of paid le
 
 ### Apply for leaves
 
-- You need to apply for a leave by filling the **Leave Application Form** on your `HackerBay Employee Dashboard`. You should fill this form **atleast 3 working days in advance.**
+- You need to apply for a leave by filling the **Leave Application Form** on your `HackerBay Employee Dashboard`. You should fill this form **at least 3 working days in advance.**
 - Your manager would let you know if your leave is approved.
 - **Emergency:** We understand this sometimes happens. Fill the form on the same day of the emergency. You can claim emergency leave twice / yr and we require evidence to consider it. If you claim emergency leave without evidence, a violation will be reported against you. 
 
@@ -37,7 +37,7 @@ Example 3: An Employee works 176 hours/month. He would get 17.6 hours of paid le
 
 ### Partial Leaves
 
-If you’re working part time any day then fill up a leave form. There’s now a way to mark a “partial leave”. Make sure you submit a partial leave atleast  1 day in advance and have it approved by me. You can see the approval status on your dashboard. If you don’t do this then the bot which computes your salary will automatically register a violation and deducts your salary accordingly in this case. Make sure you also report to the client if you’re working with the client. If you submit the form on the same day. It’ll not be considered and will not be approved. 
+If you’re working part time any day then fill up a leave form. There’s now a way to mark a “partial leave”. Make sure you submit a partial leave at least  1 day in advance and have it approved by me. You can see the approval status on your dashboard. If you don’t do this then the bot which computes your salary will automatically register a violation and deducts your salary accordingly in this case. Make sure you also report to the client if you’re working with the client. If you submit the form on the same day. It’ll not be considered and will not be approved. 
 
 ### Maternity Leave:
 - You can take a leave off upto 18 months.

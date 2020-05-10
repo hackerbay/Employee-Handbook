@@ -11,7 +11,7 @@
  - All of our employees who have resigned are most welcome to work with us again.  This is your home, and you're part of us.  This has happened once before, where someone hated their next job and wanted to come back.  We'd embrace you with no hard feelings. We promise!
 - We support you when you're with us. We expect you to support us when you plan to leave. If you do not stay for your notice period / are not responsible during your notice period / or are reckless. Then we might:
    - Hold your salary (incl all the paid leaves you have accumulated). 
-   - Will not respond OR give you a bad review to any requests with respect to your behavior and skill which we recieve from next place you plan to work.
+   - Will not respond OR give you a bad review to any requests with respect to your behavior and skill which we receive from next place you plan to work.
    - Contact the next place you plan to work and inform them about your behaviour.
    - Contact agencies who usually do background checks and inform them about your behaviour. 
 

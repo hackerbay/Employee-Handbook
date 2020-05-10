@@ -4,15 +4,15 @@ These are few basic rules that you need to follow. This is important and it matt
 
 ### EVERYWHERE:
 
-- **Important:** Use Grammarly.com. They have a chrome extention too.
+- **Important:** Use Grammarly.com. They have a chrome extension too.
 - Never use letters for words. Use complete words.  For ex: Never use "u" for "you", "r" for "are", etc.
 - When you chat with anyone (anyone! - even the HackerBay team). Follow basic grammar. I know this sounds stupid at first, but this shows how well you write. I don't even think of these when I write. It's my habit now and you should make it your habit too. Here are few most common mistakes that everyone does and few simple rules that you should follow:
 - Begin your sentence with a capital letter.
 - Use periods (.) at the end of every sentence.
-- Proper punctuations (For ex: don't instead of dont).
+- Proper punctuations (For ex: don't instead of don't).
 - Never use ALL CAPS. NEVER! This is considered as SHOUTING. You may use it if you want some words to stand out.
 - Do not overuse emojis. One every 5-10 sentences is considered ok. 1 in every sentence is not.
-- Exclaimation "!" - Use one, instead of many. (For ex: "Wow!", instead of "Wow!!!".   
+- Exclamation "!" - Use one, instead of many. (For ex: "Wow!", instead of "Wow!!!".   
 
 ### Emails:
 - When you receive a transactional (an email specific to you and not an announcement) email where someone is CC'ed. Hit "Reply All" instead of "Reply". This will ensure all the people in the email thread are looped in.

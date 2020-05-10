@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-Work is literally worship. It literally puts food on the table for your family, and pays the bills. When you commit to somehting, do it! Few things like, not showing up on standup without letting your manager know, or not reporting to a client at a scheduled time without letting him know in advance will not be tolerated.
+Work is literally worship. It literally puts food on the table for your family, and pays the bills. When you commit to something, do it! Few things like, not showing up on standup without letting your manager know, or not reporting to a client at a scheduled time without letting him know in advance will not be tolerated.
 
 ## Introduction
 

@@ -9,10 +9,10 @@
 - Ask him for sprints every week. Make sure you under-promise and over-deliver. Add time buffer for your deliveries. So, if you're a little late. You keep him satisfied.
 - Check in your code everyday and ask him for a review (if he's an engineer). Talk about the workflow which he's comfortable with. Few clients have feature-branch workflow and few have a PR workflow. Make sure you use feature-branch workflow when he has no recommendations.
 - Ask him for feedback every month, - "How can I improve to make it easier and efficient for us to work together".
-- **Weekly Demos:** Have demos every friday and show him your work. It's important you record these demos by any good screencasting tool and send him the file on Slack.
+- **Weekly Demos:** Have demos every friday and show him your work. It's important you record these demos by any good screen-casting tool and send him the file on Slack.
 - We ask feedback every single week from your client. Feedback happens right after you send him the demo, so it's really important you make your demo's shine.
 
 #### Important:
-- If we lose a client because it was your fault. We lose you too. You will be booted out of the company. It takes an incredible amount of effort on the sales team to close clients and if you can't appreciate that effort, we dont want to be working with you.
-- We periodically ask clients on how satisfied they're with you. If they're not satisfied. You'll not be promted to the next role.
+- If we lose a client because it was your fault. We lose you too. You will be booted out of the company. It takes an incredible amount of effort on the sales team to close clients and if you can't appreciate that effort, we don't want to be working with you.
+- We periodically ask clients on how satisfied they're with you. If they're not satisfied. You'll not be promoted to the next role.
 - If you consistently have bad client experiences. You'll not be working with us. You will be booted out.

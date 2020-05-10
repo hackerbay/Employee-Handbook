@@ -19,13 +19,13 @@ This document is for all new employees.
 
 - Send your Passport (if you don't have your passport, send in your valid Govt ID instead. Also, apply for a passport immediately.), Your Address, Your Bank Account Details (Ac No, IFSC, Account Name, Bank Name, Branch Name, and Bank Address), Your National ID, Your valid Tax ID, Your primary and secondary contact number - to legal@hackerbay.io
 
-- If you're NOT a US Citizen, a Permanent Resident, and are not in the US. Please fill the form [W8-BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf). This form basically states that you're not connected to the US in any way and we will not withhold your taxes. [Here's a sample form.](https://www.unfcu.org/W8BEN-sample/). Send this to legal@hackerbay.io along wiht your ID. 
+- If you're NOT a US Citizen, a Permanent Resident, and are not in the US. Please fill the form [W8-BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf). This form basically states that you're not connected to the US in any way and we will not withhold your taxes. [Here's a sample form.](https://www.unfcu.org/W8BEN-sample/). Send this to legal@hackerbay.io along with your ID. 
 
 - Sign up on Trello (if you don't have an account already) and send your username to your manager.
 
-- Sign up to [Hubstaff](https://hubstaff.com). Select a FREE plan, create a new organisation / project called 'hackerbay'. Send your username and password (yes, we need your password here). Send the credentials to legal@hackerbay.io. Since this is a remote job, like any other remote company we use Hubstaff to track time.
+- Sign up to [Hubstaff](https://hubstaff.com). Select a FREE plan, create a new organization / project called 'hackerbay'. Send your username and password (yes, we need your password here). Send the credentials to legal@hackerbay.io. Since this is a remote job, like any other remote company we use Hubstaff to track time.
 
 
-- **Important:** If you leave the company before 12 months. We will not provide you with an experience and reliveing letter. Your employment with us will be invalid and you will no longer be able to refer us to your future employers. 
+- **Important:** If you leave the company before 12 months. We will not provide you with an experience and relieving letter. Your employment with us will be invalid and you will no longer be able to refer us to your future employers. 
 
 If you have any questions. Please contact your manager.

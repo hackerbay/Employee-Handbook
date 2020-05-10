@@ -3,13 +3,13 @@
 
 ## TL;DR
 
-Your salary will be processed on 1st of every month. Please make sure your Employee Onboarding Form has correct Bank Account Details on it. Pleae make sure you fill the "Request Payout Form" on the Employee Dashobard at the end of every month. 
+Your salary will be processed on 1st of every month. Please make sure your Employee Onboarding Form has correct Bank Account Details on it. Please make sure you fill the "Request Payout Form" on the Employee Dashboard at the end of every month. 
 
 ## Introduction
 
 - Your Salary is processed on 1st of month. If 1st is a global holiday (like New Year). Your salary will be processed on the next business day.
 - Please make sure we have correct bank details. There will be a delay or your salary will be bounced back if we don't.
-- We pay in local currency. If you wan't to be paid in USD. Send us your USD Bank details. 
+- We pay in local currency. If you want to be paid in USD. Send us your USD Bank details. 
 - We cannot pay in any other bank account except yours. (We cannot pay in your mom's or dad's account for example).
 - We need your National Tax ID to pay you. For example:
   - PAN in India.
