@@ -2,15 +2,15 @@
 
 ### Daily Standups
 
-- Fill the standup forms everyday. It's on your Employee Dashobard. 
+- Fill the standup forms everyday. It's on your Employee Dashboard. 
 
-### Teamwide Checkins
+### Team-wide Check-ins
 
-- Your manager will scheudle this for you. Talk to your manager for more details. 
+- Your manager will schedule this for you. Talk to your manager for more details. 
 - It's mandatory to attend. 
 - They happen daily / bi-weekly / weekly. Your manager will decide how often and when this will happen. 
 - Your manager will give you a zoom link to join. If you don't have one. Talk to your manager. 
-- Your maanger will ping you on you team's general channel 5 mins before the standup time. If you don't see this ping, conatct your manager. If you don't hear from him in less than a minute, escalate to @nawazdhandala immediately. 
+- Your manager will ping you on you team's general channel 5 mins before the standup time. If you don't see this ping, contact your manager. If you don't hear from him in less than a minute, escalate to @nawazdhandala immediately. 
 
 
 ### One-on-one's
@@ -39,7 +39,7 @@ For Managers:
    - Are you happy working here?
 
 
-### Product Manager Checkins
+### Product Manager Check-ins
 
 - These are ONLY for product managers and not for all employees. 
 - Your manager will schedule this for you. This happens weekly at the same time. Talk to your manager for more details. 

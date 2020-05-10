@@ -29,7 +29,7 @@ When you're starting to write a new function think twice (No. thrice!, seriously
 
 
 ```
-FunctionName: One quick sentence of what this fucntion does.
+FunctionName: One quick sentence of what this function does.
 Parameters:
 <Param1> |  <Type>  | <One quick sentence on what this param does>
 <Param2> |  <Type>  | <One quick sentence on what this param does>
@@ -39,7 +39,7 @@ What does this function returns, If this function is a promise. Then say what th
 ```
 
 
-- Class names should be a noun. Classes are something. Example: Student, CloudObject, etc. If you're wrting JavaScript, class names should be PascalCase  (The first letter of the class is upper case, the next subsequent word is also upper case). If you're writing code in any other language then follow the best practices of that language.
+- Class names should be a noun. Classes are something. Example: Student, CloudObject, etc. If you're writing JavaScript, class names should be PascalCase  (The first letter of the class is upper case, the next subsequent word is also upper case). If you're writing code in any other language then follow the best practices of that language.
 - Write quick documentation before the Class.
 
 

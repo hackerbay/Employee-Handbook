@@ -7,7 +7,7 @@ Here are few things we really want to do in the next few years. Since we're boot
 - Pay for travel expenses when attending conferences abroad.
 - Buy an e-reader and books for every employee. 
 - Buy work equipment for every employee. Be it laptops, workstations, monitors, keyboard or more. 
-- Pay for coworking space near you. 
+- Pay for co-working space near you. 
 - Education : Pay for your kids education.
 - Club & Gym memberships : We care for your health.
 - Sponsor an international company trip where all of us can meet. 

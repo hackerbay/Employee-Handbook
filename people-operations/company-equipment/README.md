@@ -1,7 +1,7 @@
 # Company Equipment
 
 - We want to make sure you're productive all the time, and we want to equip you with best machines possible.
-- If you need a machine. We'll buy one for you. This will be an Ubuntu machine with a decent Processor, RAM and SSD. Most of the work we do happens on Ubuntu & We support Open Source Software. We DONT provide Windows and Mac machines at this point. - However we'll get you a Linux box and you can install Windows on it, if you want. We have few Windows licences available. Talk to @nawazdhandala to get one.
+- If you need a machine. We'll buy one for you. This will be an Ubuntu machine with a decent Processor, RAM and SSD. Most of the work we do happens on Ubuntu & We support Open Source Software. We DON'T provide Windows and Mac machines at this point. - However we'll get you a Linux box and you can install Windows on it, if you want. We have few Windows licenses available. Talk to @nawazdhandala to get one.
 - This will be a Company laptop and In the event of you leaving the company this should be returned to Company HQ in Hyderabad, India or to any other Employee who might need one.
 - To Request one: [Please sign here.](https://www.docracy.com/0tlbum6n73x/hackerbay-inc-property-agreement?startOnComments=false)
 - You're ONLY eligible for this if you've worked more than 3 months with us.

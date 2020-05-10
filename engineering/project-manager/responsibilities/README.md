@@ -6,7 +6,7 @@
 - Have daily / bi-weekly / weekly standups with your team. 
 - Make sure everyone working in your team enjoys being there, learns something new every week, and is dedicated to the product vision and mission. 
 - Create new tasks / cards and make sure those are described properly and clearly. 
-- Update trello board, assign tasks / cards to members, set deadlines, and make sure people follow through on those deadlines. 
+- Update Trello board, assign tasks / cards to members, set deadlines, and make sure people follow through on those deadlines. 
 - Do customer support / talk to customers often. 
 - Do competitor analysis and developes a strategy to make the product #1 in the market. 
 - Makes sure codebase is well maintained, and documented, with written tests. 

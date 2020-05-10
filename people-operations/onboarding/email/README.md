@@ -1,6 +1,6 @@
 # Setting up Emails
 
-- Your HackerBay Company Email ID and Password should be sent to you already. If you still haven't recieved it. Please let your manager know. 
+- Your HackerBay Company Email ID and Password should be sent to you already. If you still haven't received it. Please let your manager know. 
 
 
 ### Emails
@@ -9,7 +9,7 @@
 
 Use Webmail at https://mail.hackerbay.io/mail, check your username / password here and reset them. 
 
-**Recommended**: Set this up on your work PC as well as on phone. Use your fav mail client whcih supports IMAP on your PC and Phone. 
+**Recommended**: Set this up on your work PC as well as on phone. Use your fav mail client which supports IMAP on your PC and Phone. 
 
 #### Settings
 

@@ -14,10 +14,10 @@
 ## If you're a manager. 
 
 - Fill this form: **Company Feedback Form** on Employee Dashboard. 
-- Fill this form for EACH of your direct report: **Peer Feedback From** on your Employee Dashobard. 
+- Fill this form for EACH of your direct report: **Peer Feedback From** on your Employee Dashboard. 
 
 
 ## If you're NOT a manager. 
 
 - Fill this form: **Company Feedback Form** on Employee Dashboard. 
-- Fill this form for your manager: **Peer Feedback From** on your Employee Dashobard. 
+- Fill this form for your manager: **Peer Feedback From** on your Employee Dashboard. 
