@@ -41,6 +41,7 @@ You're always welcome to dive into more details on any specific page if you like
   * [Violation](/people-operations/violation/README.md)
   * [Resignation](/people-operations/resignation/README.md)
   * [Writing Blogs](/people-operations/blogs/README.md)
+  * [Offboarding](/people-operations/offboarding/README.md)
 * Engineering
   * [Onboarding for Engineers](/engineering/onboarding/README.md)
   * [Development Environment](/engineering/environment/README.md)
