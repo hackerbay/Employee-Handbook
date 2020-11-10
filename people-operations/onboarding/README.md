@@ -2,6 +2,8 @@
 
 This document is for all new employees.
 
+- Please update your LinkedIn profile and add HackerBay as your current employer. 
+
 - Please fill this [form](https://airtable.com/shrEsY7wY8yCxIVYy) and give us your interview feedback. 
 
 - Please fill the Employee Onboarding [form here](https://airtable.com/shrFbnb3R8JYK1XeK)
